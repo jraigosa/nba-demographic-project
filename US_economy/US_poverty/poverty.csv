@@ -47,7 +47,7 @@ Minnesota,Benton County,2014,14.85
 Minnesota,Benton County,2013,14.85
 Minnesota,Benton County,2012,14.42
 Minnesota,Benton County,2011,14.55
-Minnesota,Benton County,2010,11.0
+Minnesota,Benton County,2010,11
 Minnesota,Benton County,2009,11.27
 Minnesota,Big Stone County,2018,5.97
 Minnesota,Big Stone County,2017,11.42
@@ -75,10 +75,10 @@ Minnesota,Brown County,2016,8.03
 Minnesota,Brown County,2015,7.98
 Minnesota,Brown County,2014,7.83
 Minnesota,Brown County,2013,7.81
-Minnesota,Brown County,2012,9.0
-Minnesota,Brown County,2011,9.0
-Minnesota,Brown County,2010,9.0
-Minnesota,Brown County,2009,9.0
+Minnesota,Brown County,2012,9
+Minnesota,Brown County,2011,9
+Minnesota,Brown County,2010,9
+Minnesota,Brown County,2009,9
 Minnesota,Carlton County,2018,15.44
 Minnesota,Carlton County,2017,12.05
 Minnesota,Carlton County,2016,13.04
@@ -114,7 +114,7 @@ Minnesota,Chippewa County,2017,9.94
 Minnesota,Chippewa County,2016,10.83
 Minnesota,Chippewa County,2015,10.82
 Minnesota,Chippewa County,2014,12.1
-Minnesota,Chippewa County,2013,11.0
+Minnesota,Chippewa County,2013,11
 Minnesota,Chippewa County,2012,9.52
 Minnesota,Chippewa County,2011,9.45
 Minnesota,Chippewa County,2010,9.45
@@ -145,7 +145,7 @@ Minnesota,Clearwater County,2016,16.9
 Minnesota,Clearwater County,2015,16.85
 Minnesota,Clearwater County,2014,16.88
 Minnesota,Clearwater County,2013,16.27
-Minnesota,Clearwater County,2012,15.0
+Minnesota,Clearwater County,2012,15
 Minnesota,Clearwater County,2011,15.11
 Minnesota,Clearwater County,2010,15.11
 Minnesota,Clearwater County,2009,15.11
@@ -341,7 +341,7 @@ Minnesota,Kandiyohi County,2010,12.94
 Minnesota,Kandiyohi County,2009,12.94
 Minnesota,Kittson County,2018,6.19
 Minnesota,Kittson County,2017,10.58
-Minnesota,Kittson County,2016,11.0
+Minnesota,Kittson County,2016,11
 Minnesota,Kittson County,2015,11.11
 Minnesota,Kittson County,2014,10.89
 Minnesota,Kittson County,2013,10.89
@@ -356,10 +356,10 @@ Minnesota,Koochiching County,2015,16.92
 Minnesota,Koochiching County,2014,15.21
 Minnesota,Koochiching County,2013,15.21
 Minnesota,Koochiching County,2012,11.98
-Minnesota,Koochiching County,2011,12.0
-Minnesota,Koochiching County,2010,12.0
-Minnesota,Koochiching County,2009,12.0
-Minnesota,Lac qui Parle County,2018,12.0
+Minnesota,Koochiching County,2011,12
+Minnesota,Koochiching County,2010,12
+Minnesota,Koochiching County,2009,12
+Minnesota,Lac qui Parle County,2018,12
 Minnesota,Lac qui Parle County,2017,9.24
 Minnesota,Lac qui Parle County,2016,8.8
 Minnesota,Lac qui Parle County,2015,8.32
@@ -594,7 +594,7 @@ Minnesota,Polk County,2017,12.41
 Minnesota,Polk County,2016,12.83
 Minnesota,Polk County,2015,13.1
 Minnesota,Polk County,2014,13.12
-Minnesota,Polk County,2013,13.0
+Minnesota,Polk County,2013,13
 Minnesota,Polk County,2012,12.25
 Minnesota,Polk County,2011,12.23
 Minnesota,Polk County,2010,12.23
@@ -640,7 +640,7 @@ Minnesota,Redwood County,2011,10.54
 Minnesota,Redwood County,2010,10.54
 Minnesota,Redwood County,2009,10.54
 Minnesota,Renville County,2018,10.54
-Minnesota,Renville County,2017,11.0
+Minnesota,Renville County,2017,11
 Minnesota,Renville County,2016,10.95
 Minnesota,Renville County,2015,11.1
 Minnesota,Renville County,2014,11.11
@@ -836,10 +836,10 @@ Minnesota,Wilkin County,2015,9.83
 Minnesota,Wilkin County,2014,9.9
 Minnesota,Wilkin County,2013,9.9
 Minnesota,Wilkin County,2012,7.01
-Minnesota,Wilkin County,2011,7.0
-Minnesota,Wilkin County,2010,7.0
-Minnesota,Wilkin County,2009,7.0
-Minnesota,Winona County,2018,106.66
+Minnesota,Wilkin County,2011,7
+Minnesota,Wilkin County,2010,7
+Minnesota,Wilkin County,2009,7
+Minnesota,Winona County,2018,14.47
 Minnesota,Winona County,2017,14.47
 Minnesota,Winona County,2016,13.93
 Minnesota,Winona County,2015,14.15
@@ -951,7 +951,7 @@ Mississippi,Carroll County,2010,25.44
 Mississippi,Carroll County,2009,25.44
 Mississippi,Chickasaw County,2018,33.7
 Mississippi,Chickasaw County,2017,21.15
-Mississippi,Chickasaw County,2016,27.0
+Mississippi,Chickasaw County,2016,27
 Mississippi,Chickasaw County,2015,27.16
 Mississippi,Chickasaw County,2014,26.32
 Mississippi,Chickasaw County,2013,26.31
@@ -1216,9 +1216,9 @@ Mississippi,Kemper County,2015,30.47
 Mississippi,Kemper County,2014,30.48
 Mississippi,Kemper County,2013,32.91
 Mississippi,Kemper County,2012,28.2
-Mississippi,Kemper County,2011,28.0
-Mississippi,Kemper County,2010,28.0
-Mississippi,Kemper County,2009,28.0
+Mississippi,Kemper County,2011,28
+Mississippi,Kemper County,2010,28
+Mississippi,Kemper County,2009,28
 Mississippi,Lafayette County,2018,24.11
 Mississippi,Lafayette County,2017,23.76
 Mississippi,Lafayette County,2016,25.22
@@ -1253,8 +1253,8 @@ Mississippi,Lawrence County,2018,23.39
 Mississippi,Lawrence County,2017,19.69
 Mississippi,Lawrence County,2016,21.05
 Mississippi,Lawrence County,2015,21.94
-Mississippi,Lawrence County,2014,22.0
-Mississippi,Lawrence County,2013,22.0
+Mississippi,Lawrence County,2014,22
+Mississippi,Lawrence County,2013,22
 Mississippi,Lawrence County,2012,18.66
 Mississippi,Lawrence County,2011,18.68
 Mississippi,Lawrence County,2010,17.2
@@ -1268,8 +1268,8 @@ Mississippi,Leake County,2013,26.78
 Mississippi,Leake County,2012,26.21
 Mississippi,Leake County,2011,26.86
 Mississippi,Leake County,2010,21.67
-Mississippi,Leake County,2009,21.0
-Mississippi,Lee County,2018,21.0
+Mississippi,Leake County,2009,21
+Mississippi,Lee County,2018,21
 Mississippi,Lee County,2017,16.97
 Mississippi,Lee County,2016,18.44
 Mississippi,Lee County,2015,18.46
@@ -1289,7 +1289,7 @@ Mississippi,Leflore County,2012,40.35
 Mississippi,Leflore County,2011,39.41
 Mississippi,Leflore County,2010,39.27
 Mississippi,Leflore County,2009,39.27
-Mississippi,Lincoln County,2018,24.0
+Mississippi,Lincoln County,2018,24
 Mississippi,Lincoln County,2017,22.02
 Mississippi,Lincoln County,2016,25.47
 Mississippi,Lincoln County,2015,25.46
@@ -1351,7 +1351,7 @@ Mississippi,Monroe County,2010,20.87
 Mississippi,Monroe County,2009,19.23
 Mississippi,Montgomery County,2018,12.18
 Mississippi,Montgomery County,2017,26.3
-Mississippi,Montgomery County,2016,28.0
+Mississippi,Montgomery County,2016,28
 Mississippi,Montgomery County,2015,29.47
 Mississippi,Montgomery County,2014,29.59
 Mississippi,Montgomery County,2013,30.83
@@ -1630,7 +1630,7 @@ Mississippi,Washington County,2011,37.46
 Mississippi,Washington County,2010,37.46
 Mississippi,Washington County,2009,37.46
 Mississippi,Wayne County,2018,21.95
-Mississippi,Wayne County,2017,22.0
+Mississippi,Wayne County,2017,22
 Mississippi,Wayne County,2016,25.39
 Mississippi,Wayne County,2015,26.31
 Mississippi,Wayne County,2014,27.16
@@ -1736,10 +1736,10 @@ Missouri,Barry County,2015,20.1
 Missouri,Barry County,2014,20.07
 Missouri,Barry County,2013,20.07
 Missouri,Barry County,2012,17.99
-Missouri,Barry County,2011,18.0
-Missouri,Barry County,2010,18.0
-Missouri,Barry County,2009,18.0
-Missouri,Barton County,2018,18.0
+Missouri,Barry County,2011,18
+Missouri,Barry County,2010,18
+Missouri,Barry County,2009,18
+Missouri,Barton County,2018,18
 Missouri,Barton County,2017,20.91
 Missouri,Barton County,2016,20.86
 Missouri,Barton County,2015,24.22
@@ -1862,7 +1862,7 @@ Missouri,Carroll County,2009,13.1
 Missouri,Carter County,2018,12.8
 Missouri,Carter County,2017,15.56
 Missouri,Carter County,2016,19.95
-Missouri,Carter County,2015,21.0
+Missouri,Carter County,2015,21
 Missouri,Carter County,2014,21.25
 Missouri,Carter County,2013,21.6
 Missouri,Carter County,2012,26.76
@@ -1966,8 +1966,8 @@ Missouri,Crawford County,2015,21.35
 Missouri,Crawford County,2014,21.03
 Missouri,Crawford County,2013,21.03
 Missouri,Crawford County,2012,19.01
-Missouri,Crawford County,2011,19.0
-Missouri,Crawford County,2010,19.0
+Missouri,Crawford County,2011,19
+Missouri,Crawford County,2010,19
 Missouri,Crawford County,2009,18.2
 Missouri,Dade County,2018,12.29
 Missouri,Dade County,2017,22.47
@@ -2003,8 +2003,8 @@ Missouri,DeKalb County,2018,12.36
 Missouri,DeKalb County,2017,13.54
 Missouri,DeKalb County,2016,14.12
 Missouri,DeKalb County,2015,14.9
-Missouri,DeKalb County,2014,15.0
-Missouri,DeKalb County,2013,15.0
+Missouri,DeKalb County,2014,15
+Missouri,DeKalb County,2013,15
 Missouri,DeKalb County,2012,8.46
 Missouri,DeKalb County,2011,8.27
 Missouri,DeKalb County,2010,8.27
@@ -2020,7 +2020,7 @@ Missouri,Dent County,2011,19.45
 Missouri,Dent County,2010,19.45
 Missouri,Dent County,2009,18.67
 Missouri,Douglas County,2018,21.35
-Missouri,Douglas County,2017,21.0
+Missouri,Douglas County,2017,21
 Missouri,Douglas County,2016,20.5
 Missouri,Douglas County,2015,21.92
 Missouri,Douglas County,2014,22.18
@@ -2429,7 +2429,7 @@ Missouri,Nodaway County,2012,28.03
 Missouri,Nodaway County,2011,27.91
 Missouri,Nodaway County,2010,27.91
 Missouri,Nodaway County,2009,20.33
-Missouri,Oregon County,2018,20.0
+Missouri,Oregon County,2018,20
 Missouri,Oregon County,2017,22.16
 Missouri,Oregon County,2016,26.38
 Missouri,Oregon County,2015,26.39
@@ -2571,7 +2571,7 @@ Missouri,Randolph County,2010,18.23
 Missouri,Randolph County,2009,18.23
 Missouri,Ray County,2018,14.69
 Missouri,Ray County,2017,15.14
-Missouri,Ray County,2016,16.0
+Missouri,Ray County,2016,16
 Missouri,Ray County,2015,15.97
 Missouri,Ray County,2014,15.89
 Missouri,Ray County,2013,14.91
@@ -2611,7 +2611,7 @@ Missouri,Saline County,2010,19.06
 Missouri,Saline County,2009,19.06
 Missouri,Schuyler County,2018,19.06
 Missouri,Schuyler County,2017,17.77
-Missouri,Schuyler County,2016,21.0
+Missouri,Schuyler County,2016,21
 Missouri,Schuyler County,2015,21.5
 Missouri,Schuyler County,2014,21.23
 Missouri,Schuyler County,2013,21.67
@@ -3112,7 +3112,7 @@ Montana,Lincoln County,2009,20.47
 Montana,Madison County,2018,8.66
 Montana,Madison County,2017,10.58
 Montana,Madison County,2016,11.2
-Montana,Madison County,2015,11.0
+Montana,Madison County,2015,11
 Montana,Madison County,2014,10.66
 Montana,Madison County,2013,10.66
 Montana,Madison County,2012,10.62
@@ -3152,15 +3152,15 @@ Montana,Mineral County,2009,16.06
 Montana,Missoula County,2018,16.03
 Montana,Missoula County,2017,15.79
 Montana,Missoula County,2016,15.91
-Montana,Missoula County,2015,16.0
-Montana,Missoula County,2014,16.0
-Montana,Missoula County,2013,16.0
+Montana,Missoula County,2015,16
+Montana,Missoula County,2014,16
+Montana,Missoula County,2013,16
 Montana,Missoula County,2012,16.67
 Montana,Missoula County,2011,16.7
 Montana,Missoula County,2010,16.7
 Montana,Missoula County,2009,16.7
 Montana,Musselshell County,2018,1.22
-Montana,Musselshell County,2017,19.0
+Montana,Musselshell County,2017,19
 Montana,Musselshell County,2016,17.05
 Montana,Musselshell County,2015,16.6
 Montana,Musselshell County,2014,16.37
@@ -3199,7 +3199,7 @@ Montana,Phillips County,2012,10.59
 Montana,Phillips County,2011,10.57
 Montana,Phillips County,2010,10.57
 Montana,Phillips County,2009,10.57
-Montana,Pondera County,2018,20.0
+Montana,Pondera County,2018,20
 Montana,Pondera County,2017,19.96
 Montana,Pondera County,2016,20.18
 Montana,Pondera County,2015,20.59
@@ -3230,7 +3230,7 @@ Montana,Powell County,2011,14.48
 Montana,Powell County,2010,14.48
 Montana,Powell County,2009,14.48
 Montana,Prairie County,2018,4.86
-Montana,Prairie County,2017,11.0
+Montana,Prairie County,2017,11
 Montana,Prairie County,2016,18.28
 Montana,Prairie County,2015,17.83
 Montana,Prairie County,2014,17.74
@@ -3270,7 +3270,7 @@ Montana,Roosevelt County,2011,21.91
 Montana,Roosevelt County,2010,21.91
 Montana,Roosevelt County,2009,21.91
 Montana,Rosebud County,2018,21.34
-Montana,Rosebud County,2017,19.0
+Montana,Rosebud County,2017,19
 Montana,Rosebud County,2016,19.57
 Montana,Rosebud County,2015,20.23
 Montana,Rosebud County,2014,20.61
@@ -3359,7 +3359,7 @@ Montana,Treasure County,2012,11.21
 Montana,Treasure County,2011,11.32
 Montana,Treasure County,2010,11.32
 Montana,Treasure County,2009,11.32
-Montana,Valley County,2018,17.0
+Montana,Valley County,2018,17
 Montana,Valley County,2017,9.06
 Montana,Valley County,2016,7.8
 Montana,Valley County,2015,10.35
@@ -4221,7 +4221,7 @@ Nebraska,Sherman County,2010,10.34
 Nebraska,Sherman County,2009,10.34
 Nebraska,Sioux County,2018,6.68
 Nebraska,Sioux County,2017,10.66
-Nebraska,Sioux County,2016,11.0
+Nebraska,Sioux County,2016,11
 Nebraska,Sioux County,2015,10.99
 Nebraska,Sioux County,2014,11.98
 Nebraska,Sioux County,2013,9.69
@@ -4245,7 +4245,7 @@ Nebraska,Thayer County,2016,11.58
 Nebraska,Thayer County,2015,12.03
 Nebraska,Thayer County,2014,12.01
 Nebraska,Thayer County,2013,12.01
-Nebraska,Thayer County,2012,11.0
+Nebraska,Thayer County,2012,11
 Nebraska,Thayer County,2011,11.01
 Nebraska,Thayer County,2010,11.01
 Nebraska,Thayer County,2009,11.01
@@ -4760,7 +4760,7 @@ New Jersey,Passaic County,2011,15.78
 New Jersey,Passaic County,2010,15.78
 New Jersey,Passaic County,2009,15.4
 New Jersey,Salem County,2018,12.97
-New Jersey,Salem County,2017,13.0
+New Jersey,Salem County,2017,13
 New Jersey,Salem County,2016,13.81
 New Jersey,Salem County,2015,13.77
 New Jersey,Salem County,2014,13.49
@@ -5152,7 +5152,7 @@ New York,Albany County,2009,11.44
 New York,Allegany County,2018,4.31
 New York,Allegany County,2017,16.78
 New York,Allegany County,2016,17.03
-New York,Allegany County,2015,17.0
+New York,Allegany County,2015,17
 New York,Allegany County,2014,16.9
 New York,Allegany County,2013,16.7
 New York,Allegany County,2012,16.8
@@ -5291,7 +5291,7 @@ New York,Erie County,2010,13.78
 New York,Erie County,2009,12.69
 New York,Essex County,2018,9.43
 New York,Essex County,2017,9.31
-New York,Essex County,2016,10.0
+New York,Essex County,2016,10
 New York,Essex County,2015,10.55
 New York,Essex County,2014,10.68
 New York,Essex County,2013,11.01
@@ -5431,7 +5431,7 @@ New York,Montgomery County,2010,19.23
 New York,Montgomery County,2009,14.29
 New York,Nassau County,2018,5.72
 New York,Nassau County,2017,5.81
-New York,Nassau County,2016,6.0
+New York,Nassau County,2016,6
 New York,Nassau County,2015,6.14
 New York,Nassau County,2014,6.15
 New York,Nassau County,2013,6.15
@@ -5686,8 +5686,8 @@ New York,Tompkins County,2015,20.07
 New York,Tompkins County,2014,20.55
 New York,Tompkins County,2013,20.55
 New York,Tompkins County,2012,19.07
-New York,Tompkins County,2011,20.0
-New York,Tompkins County,2010,20.0
+New York,Tompkins County,2011,20
+New York,Tompkins County,2010,20
 New York,Tompkins County,2009,19.96
 New York,Ulster County,2018,16.44
 New York,Ulster County,2017,13.91
@@ -5700,7 +5700,7 @@ New York,Ulster County,2011,12.85
 New York,Ulster County,2010,12.85
 New York,Ulster County,2009,12.85
 New York,Warren County,2018,12.85
-New York,Warren County,2017,10.0
+New York,Warren County,2017,10
 New York,Warren County,2016,10.71
 New York,Warren County,2015,11.91
 New York,Warren County,2014,11.96
@@ -5829,7 +5829,7 @@ North Carolina,Beaufort County,2012,20.1
 North Carolina,Beaufort County,2011,18.5
 North Carolina,Beaufort County,2010,15.93
 North Carolina,Beaufort County,2009,14.88
-North Carolina,Bertie County,2018,15.0
+North Carolina,Bertie County,2018,15
 North Carolina,Bertie County,2017,22.24
 North Carolina,Bertie County,2016,21.45
 North Carolina,Bertie County,2015,22.12
@@ -5939,7 +5939,7 @@ North Carolina,Catawba County,2012,14.94
 North Carolina,Catawba County,2011,15.12
 North Carolina,Catawba County,2010,15.12
 North Carolina,Catawba County,2009,15.12
-North Carolina,Chatham County,2018,11.0
+North Carolina,Chatham County,2018,11
 North Carolina,Chatham County,2017,12.28
 North Carolina,Chatham County,2016,13.56
 North Carolina,Chatham County,2015,13.47
@@ -5974,7 +5974,7 @@ North Carolina,Clay County,2017,16.21
 North Carolina,Clay County,2016,16.29
 North Carolina,Clay County,2015,18.93
 North Carolina,Clay County,2014,21.1
-North Carolina,Clay County,2013,23.0
+North Carolina,Clay County,2013,23
 North Carolina,Clay County,2012,22.79
 North Carolina,Clay County,2011,22.57
 North Carolina,Clay County,2010,22.57
@@ -6144,7 +6144,7 @@ North Carolina,Granville County,2017,13.97
 North Carolina,Granville County,2016,16.32
 North Carolina,Granville County,2015,16.29
 North Carolina,Granville County,2014,16.26
-North Carolina,Granville County,2013,15.0
+North Carolina,Granville County,2013,15
 North Carolina,Granville County,2012,14.11
 North Carolina,Granville County,2011,14.27
 North Carolina,Granville County,2010,14.27
@@ -6456,9 +6456,9 @@ North Carolina,Pasquotank County,2015,18.85
 North Carolina,Pasquotank County,2014,19.24
 North Carolina,Pasquotank County,2013,17.57
 North Carolina,Pasquotank County,2012,17.62
-North Carolina,Pasquotank County,2011,18.0
-North Carolina,Pasquotank County,2010,18.0
-North Carolina,Pasquotank County,2009,18.0
+North Carolina,Pasquotank County,2011,18
+North Carolina,Pasquotank County,2010,18
+North Carolina,Pasquotank County,2009,18
 North Carolina,Pender County,2018,15.23
 North Carolina,Pender County,2017,15.08
 North Carolina,Pender County,2016,18.5
@@ -6953,7 +6953,7 @@ North Dakota,Griggs County,2018,13.78
 North Dakota,Griggs County,2017,8.05
 North Dakota,Griggs County,2016,7.66
 North Dakota,Griggs County,2015,7.87
-North Dakota,Griggs County,2014,8.0
+North Dakota,Griggs County,2014,8
 North Dakota,Griggs County,2013,7.86
 North Dakota,Griggs County,2012,7.51
 North Dakota,Griggs County,2011,7.52
@@ -6969,8 +6969,8 @@ North Dakota,Hettinger County,2012,11.79
 North Dakota,Hettinger County,2011,11.88
 North Dakota,Hettinger County,2010,11.88
 North Dakota,Hettinger County,2009,11.88
-North Dakota,Kidder County,2018,11.0
-North Dakota,Kidder County,2017,7.0
+North Dakota,Kidder County,2018,11
+North Dakota,Kidder County,2017,7
 North Dakota,Kidder County,2016,6.88
 North Dakota,Kidder County,2015,7.19
 North Dakota,Kidder County,2014,7.62
@@ -7175,7 +7175,7 @@ North Dakota,Sheridan County,2016,16.5
 North Dakota,Sheridan County,2015,15.72
 North Dakota,Sheridan County,2014,15.63
 North Dakota,Sheridan County,2013,15.63
-North Dakota,Sheridan County,2012,17.0
+North Dakota,Sheridan County,2012,17
 North Dakota,Sheridan County,2011,17.21
 North Dakota,Sheridan County,2010,17.16
 North Dakota,Sheridan County,2009,17.14
@@ -7185,7 +7185,7 @@ North Dakota,Sioux County,2016,37.67
 North Dakota,Sioux County,2015,35.99
 North Dakota,Sioux County,2014,35.72
 North Dakota,Sioux County,2013,38.27
-North Dakota,Sioux County,2012,44.0
+North Dakota,Sioux County,2012,44
 North Dakota,Sioux County,2011,44.81
 North Dakota,Sioux County,2010,44.81
 North Dakota,Sioux County,2009,44.81
@@ -7326,9 +7326,9 @@ Ohio,Ashtabula County,2015,20.03
 Ohio,Ashtabula County,2014,20.06
 Ohio,Ashtabula County,2013,19.66
 Ohio,Ashtabula County,2012,18.24
-Ohio,Ashtabula County,2011,18.0
-Ohio,Ashtabula County,2010,18.0
-Ohio,Ashtabula County,2009,18.0
+Ohio,Ashtabula County,2011,18
+Ohio,Ashtabula County,2010,18
+Ohio,Ashtabula County,2009,18
 Ohio,Athens County,2018,30.59
 Ohio,Athens County,2017,30.5
 Ohio,Athens County,2016,31.12
@@ -7450,7 +7450,7 @@ Ohio,Coshocton County,2011,16.99
 Ohio,Coshocton County,2010,16.99
 Ohio,Coshocton County,2009,16.99
 Ohio,Crawford County,2018,16.59
-Ohio,Crawford County,2017,16.0
+Ohio,Crawford County,2017,16
 Ohio,Crawford County,2016,15.82
 Ohio,Crawford County,2015,16.39
 Ohio,Crawford County,2014,16.43
@@ -7562,7 +7562,7 @@ Ohio,Gallia County,2009,18.97
 Ohio,Geauga County,2018,18.77
 Ohio,Geauga County,2017,6.07
 Ohio,Geauga County,2016,6.85
-Ohio,Geauga County,2015,7.0
+Ohio,Geauga County,2015,7
 Ohio,Geauga County,2014,7.49
 Ohio,Geauga County,2013,7.49
 Ohio,Geauga County,2012,8.32
@@ -7783,7 +7783,7 @@ Ohio,Mahoning County,2018,42.07
 Ohio,Mahoning County,2017,17.65
 Ohio,Mahoning County,2016,18.07
 Ohio,Mahoning County,2015,18.09
-Ohio,Mahoning County,2014,18.0
+Ohio,Mahoning County,2014,18
 Ohio,Mahoning County,2013,17.8
 Ohio,Mahoning County,2012,17.57
 Ohio,Mahoning County,2011,17.47
@@ -7931,7 +7931,7 @@ Ohio,Perry County,2010,18.23
 Ohio,Perry County,2009,18.23
 Ohio,Pickaway County,2018,18.23
 Ohio,Pickaway County,2017,11.93
-Ohio,Pickaway County,2016,12.0
+Ohio,Pickaway County,2016,12
 Ohio,Pickaway County,2015,12.54
 Ohio,Pickaway County,2014,12.55
 Ohio,Pickaway County,2013,12.55
@@ -7951,7 +7951,7 @@ Ohio,Pike County,2010,22.04
 Ohio,Pike County,2009,22.04
 Ohio,Portage County,2018,13.21
 Ohio,Portage County,2017,13.42
-Ohio,Portage County,2016,15.0
+Ohio,Portage County,2016,15
 Ohio,Portage County,2015,15.3
 Ohio,Portage County,2014,15.61
 Ohio,Portage County,2013,15.49
@@ -8251,7 +8251,7 @@ Oklahoma,Caddo County,2010,20.83
 Oklahoma,Caddo County,2009,20.83
 Oklahoma,Canadian County,2018,8.43
 Oklahoma,Canadian County,2017,8.43
-Oklahoma,Canadian County,2016,8.0
+Oklahoma,Canadian County,2016,8
 Oklahoma,Canadian County,2015,8.04
 Oklahoma,Canadian County,2014,7.26
 Oklahoma,Canadian County,2013,7.26
@@ -8332,7 +8332,7 @@ Oklahoma,Comanche County,2009,16.51
 Oklahoma,Cotton County,2018,3.9
 Oklahoma,Cotton County,2017,16.4
 Oklahoma,Cotton County,2016,16.08
-Oklahoma,Cotton County,2015,17.0
+Oklahoma,Cotton County,2015,17
 Oklahoma,Cotton County,2014,17.25
 Oklahoma,Cotton County,2013,16.21
 Oklahoma,Cotton County,2012,15.57
@@ -8354,7 +8354,7 @@ Oklahoma,Creek County,2017,15.22
 Oklahoma,Creek County,2016,15.08
 Oklahoma,Creek County,2015,15.46
 Oklahoma,Creek County,2014,15.51
-Oklahoma,Creek County,2013,15.0
+Oklahoma,Creek County,2013,15
 Oklahoma,Creek County,2012,13.85
 Oklahoma,Creek County,2011,13.98
 Oklahoma,Creek County,2010,13.98
@@ -8709,7 +8709,7 @@ Oklahoma,Okfuskee County,2012,26.8
 Oklahoma,Okfuskee County,2011,26.77
 Oklahoma,Okfuskee County,2010,26.77
 Oklahoma,Okfuskee County,2009,26.77
-Oklahoma,Oklahoma County,2018,18.0
+Oklahoma,Oklahoma County,2018,18
 Oklahoma,Oklahoma County,2017,16.75
 Oklahoma,Oklahoma County,2016,17.61
 Oklahoma,Oklahoma County,2015,17.7
@@ -8845,7 +8845,7 @@ Oklahoma,Sequoyah County,2016,24.91
 Oklahoma,Sequoyah County,2015,25.11
 Oklahoma,Sequoyah County,2014,25.13
 Oklahoma,Sequoyah County,2013,25.13
-Oklahoma,Sequoyah County,2012,21.0
+Oklahoma,Sequoyah County,2012,21
 Oklahoma,Sequoyah County,2011,20.96
 Oklahoma,Sequoyah County,2010,20.96
 Oklahoma,Sequoyah County,2009,20.96
@@ -8933,7 +8933,7 @@ Oklahoma,Woodward County,2018,25.67
 Oklahoma,Woodward County,2017,11.69
 Oklahoma,Woodward County,2016,12.53
 Oklahoma,Woodward County,2015,12.93
-Oklahoma,Woodward County,2014,13.0
+Oklahoma,Woodward County,2014,13
 Oklahoma,Woodward County,2013,14.05
 Oklahoma,Woodward County,2012,11.97
 Oklahoma,Woodward County,2011,11.89
@@ -9034,7 +9034,7 @@ Oregon,Douglas County,2017,13.08
 Oregon,Douglas County,2016,18.61
 Oregon,Douglas County,2015,18.98
 Oregon,Douglas County,2014,19.28
-Oregon,Douglas County,2013,18.0
+Oregon,Douglas County,2013,18
 Oregon,Douglas County,2012,17.65
 Oregon,Douglas County,2011,17.75
 Oregon,Douglas County,2010,17.75
@@ -9083,8 +9083,8 @@ Oregon,Jackson County,2018,111.67
 Oregon,Jackson County,2017,16.47
 Oregon,Jackson County,2016,17.95
 Oregon,Jackson County,2015,18.2
-Oregon,Jackson County,2014,19.0
-Oregon,Jackson County,2013,19.0
+Oregon,Jackson County,2014,19
+Oregon,Jackson County,2013,19
 Oregon,Jackson County,2012,16.58
 Oregon,Jackson County,2011,16.58
 Oregon,Jackson County,2010,16.58
@@ -9106,9 +9106,9 @@ Oregon,Josephine County,2015,19.7
 Oregon,Josephine County,2014,20.14
 Oregon,Josephine County,2013,20.14
 Oregon,Josephine County,2012,19.92
-Oregon,Josephine County,2011,20.0
-Oregon,Josephine County,2010,20.0
-Oregon,Josephine County,2009,20.0
+Oregon,Josephine County,2011,20
+Oregon,Josephine County,2010,20
+Oregon,Josephine County,2009,20
 Oregon,Klamath County,2018,19.21
 Oregon,Klamath County,2017,18.81
 Oregon,Klamath County,2016,18.67
@@ -9175,7 +9175,7 @@ Oregon,Marion County,2016,17.11
 Oregon,Marion County,2015,17.15
 Oregon,Marion County,2014,18.42
 Oregon,Marion County,2013,18.42
-Oregon,Marion County,2012,18.0
+Oregon,Marion County,2012,18
 Oregon,Marion County,2011,18.03
 Oregon,Marion County,2010,18.03
 Oregon,Marion County,2009,18.03
@@ -9323,7 +9323,7 @@ Pennsylvania,Armstrong County,2018,7.22
 Pennsylvania,Armstrong County,2017,12.85
 Pennsylvania,Armstrong County,2016,13.15
 Pennsylvania,Armstrong County,2015,13.04
-Pennsylvania,Armstrong County,2014,13.0
+Pennsylvania,Armstrong County,2014,13
 Pennsylvania,Armstrong County,2013,13.07
 Pennsylvania,Armstrong County,2012,11.88
 Pennsylvania,Armstrong County,2011,11.85
@@ -9346,9 +9346,9 @@ Pennsylvania,Bedford County,2015,13.97
 Pennsylvania,Bedford County,2014,13.75
 Pennsylvania,Bedford County,2013,13.32
 Pennsylvania,Bedford County,2012,12.98
-Pennsylvania,Bedford County,2011,13.0
-Pennsylvania,Bedford County,2010,13.0
-Pennsylvania,Bedford County,2009,13.0
+Pennsylvania,Bedford County,2011,13
+Pennsylvania,Bedford County,2010,13
+Pennsylvania,Bedford County,2009,13
 Pennsylvania,Berks County,2018,12.82
 Pennsylvania,Berks County,2017,12.82
 Pennsylvania,Berks County,2016,14.27
@@ -9369,7 +9369,7 @@ Pennsylvania,Blair County,2012,13.48
 Pennsylvania,Blair County,2011,13.33
 Pennsylvania,Blair County,2010,13.33
 Pennsylvania,Blair County,2009,13.33
-Pennsylvania,Bradford County,2018,12.0
+Pennsylvania,Bradford County,2018,12
 Pennsylvania,Bradford County,2017,12.07
 Pennsylvania,Bradford County,2016,12.41
 Pennsylvania,Bradford County,2015,13.31
@@ -9539,7 +9539,7 @@ Pennsylvania,Elk County,2012,10.76
 Pennsylvania,Elk County,2011,10.61
 Pennsylvania,Elk County,2010,10.61
 Pennsylvania,Elk County,2009,10.25
-Pennsylvania,Erie County,2018,124.0
+Pennsylvania,Erie County,2018,124
 Pennsylvania,Erie County,2017,16.41
 Pennsylvania,Erie County,2016,16.69
 Pennsylvania,Erie County,2015,16.7
@@ -9939,8 +9939,8 @@ Pennsylvania,Wayne County,2012,12.15
 Pennsylvania,Wayne County,2011,12.11
 Pennsylvania,Wayne County,2010,12.11
 Pennsylvania,Wayne County,2009,12.11
-Pennsylvania,Westmoreland County,2018,10.0
-Pennsylvania,Westmoreland County,2017,10.0
+Pennsylvania,Westmoreland County,2018,10
+Pennsylvania,Westmoreland County,2017,10
 Pennsylvania,Westmoreland County,2016,10.36
 Pennsylvania,Westmoreland County,2015,10.35
 Pennsylvania,Westmoreland County,2014,10.4
@@ -10004,7 +10004,7 @@ Rhode Island,Providence County,2017,16.39
 Rhode Island,Providence County,2016,17.18
 Rhode Island,Providence County,2015,17.63
 Rhode Island,Providence County,2014,17.72
-Rhode Island,Providence County,2013,17.0
+Rhode Island,Providence County,2013,17
 Rhode Island,Providence County,2012,16.79
 Rhode Island,Providence County,2011,16.45
 Rhode Island,Providence County,2010,16.45
@@ -10192,7 +10192,7 @@ South Carolina,Dillon County,2009,32.78
 South Carolina,Dorchester County,2018,32.78
 South Carolina,Dorchester County,2017,11.78
 South Carolina,Dorchester County,2016,11.78
-South Carolina,Dorchester County,2015,13.0
+South Carolina,Dorchester County,2015,13
 South Carolina,Dorchester County,2014,13.07
 South Carolina,Dorchester County,2013,13.07
 South Carolina,Dorchester County,2012,11.32
@@ -10526,9 +10526,9 @@ South Dakota,Brookings County,2015,16.44
 South Dakota,Brookings County,2014,16.25
 South Dakota,Brookings County,2013,17.35
 South Dakota,Brookings County,2012,17.88
-South Dakota,Brookings County,2011,18.0
-South Dakota,Brookings County,2010,18.0
-South Dakota,Brookings County,2009,18.0
+South Dakota,Brookings County,2011,18
+South Dakota,Brookings County,2010,18
+South Dakota,Brookings County,2009,18
 South Dakota,Brown County,2018,12.9
 South Dakota,Brown County,2017,12.04
 South Dakota,Brown County,2016,10.95
@@ -10771,7 +10771,7 @@ South Dakota,Hand County,2010,12.94
 South Dakota,Hand County,2009,12.94
 South Dakota,Hanson County,2018,11.98
 South Dakota,Hanson County,2017,6.58
-South Dakota,Hanson County,2016,9.0
+South Dakota,Hanson County,2016,9
 South Dakota,Hanson County,2015,11.68
 South Dakota,Hanson County,2014,12.02
 South Dakota,Hanson County,2013,13.44
@@ -10926,12 +10926,12 @@ South Dakota,McPherson County,2015,21.32
 South Dakota,McPherson County,2014,22.06
 South Dakota,McPherson County,2013,21.64
 South Dakota,McPherson County,2012,17.95
-South Dakota,McPherson County,2011,18.0
-South Dakota,McPherson County,2010,18.0
-South Dakota,McPherson County,2009,18.0
+South Dakota,McPherson County,2011,18
+South Dakota,McPherson County,2010,18
+South Dakota,McPherson County,2009,18
 South Dakota,Meade County,2018,7.84
 South Dakota,Meade County,2017,7.74
-South Dakota,Meade County,2016,9.0
+South Dakota,Meade County,2016,9
 South Dakota,Meade County,2015,10.16
 South Dakota,Meade County,2014,10.83
 South Dakota,Meade County,2013,10.59
@@ -11281,7 +11281,7 @@ Tennessee,Clay County,2010,19.71
 Tennessee,Clay County,2009,19.71
 Tennessee,Cocke County,2018,25.16
 Tennessee,Cocke County,2017,24.87
-Tennessee,Cocke County,2016,26.0
+Tennessee,Cocke County,2016,26
 Tennessee,Cocke County,2015,26.14
 Tennessee,Cocke County,2014,26.12
 Tennessee,Cocke County,2013,26.25
@@ -11515,7 +11515,7 @@ Tennessee,Haywood County,2016,20.51
 Tennessee,Haywood County,2015,22.52
 Tennessee,Haywood County,2014,22.81
 Tennessee,Haywood County,2013,21.46
-Tennessee,Haywood County,2012,21.0
+Tennessee,Haywood County,2012,21
 Tennessee,Haywood County,2011,21.21
 Tennessee,Haywood County,2010,21.21
 Tennessee,Haywood County,2009,21.21
@@ -11569,7 +11569,7 @@ Tennessee,Humphreys County,2012,7.75
 Tennessee,Humphreys County,2011,12.71
 Tennessee,Humphreys County,2010,12.71
 Tennessee,Humphreys County,2009,12.71
-Tennessee,Jackson County,2018,20.0
+Tennessee,Jackson County,2018,20
 Tennessee,Jackson County,2017,20.73
 Tennessee,Jackson County,2016,24.65
 Tennessee,Jackson County,2015,25.95
@@ -11886,9 +11886,9 @@ Tennessee,Rutherford County,2015,12.37
 Tennessee,Rutherford County,2014,12.45
 Tennessee,Rutherford County,2013,12.45
 Tennessee,Rutherford County,2012,12.94
-Tennessee,Rutherford County,2011,13.0
-Tennessee,Rutherford County,2010,13.0
-Tennessee,Rutherford County,2009,13.0
+Tennessee,Rutherford County,2011,13
+Tennessee,Rutherford County,2010,13
+Tennessee,Rutherford County,2009,13
 Tennessee,Scott County,2018,2.78
 Tennessee,Scott County,2017,23.81
 Tennessee,Scott County,2016,27.5
@@ -12082,7 +12082,7 @@ Tennessee,Williamson County,2009,5.79
 Tennessee,Wilson County,2018,5.8
 Tennessee,Wilson County,2017,9.09
 Tennessee,Wilson County,2016,9.21
-Tennessee,Wilson County,2015,10.0
+Tennessee,Wilson County,2015,10
 Tennessee,Wilson County,2014,10.06
 Tennessee,Wilson County,2013,10.06
 Tennessee,Wilson County,2012,10.06
@@ -12171,7 +12171,7 @@ Texas,Austin County,2010,9.05
 Texas,Austin County,2009,7.55
 Texas,Bailey County,2018,5.68
 Texas,Bailey County,2017,20.93
-Texas,Bailey County,2016,20.0
+Texas,Bailey County,2016,20
 Texas,Bailey County,2015,19.06
 Texas,Bailey County,2014,18.97
 Texas,Bailey County,2013,15.11
@@ -12195,7 +12195,7 @@ Texas,Bastrop County,2016,13.56
 Texas,Bastrop County,2015,13.81
 Texas,Bastrop County,2014,14.32
 Texas,Bastrop County,2013,14.32
-Texas,Bastrop County,2012,14.0
+Texas,Bastrop County,2012,14
 Texas,Bastrop County,2011,14.14
 Texas,Bastrop County,2010,14.14
 Texas,Bastrop County,2009,14.14
@@ -12248,7 +12248,7 @@ Texas,Blanco County,2013,8.47
 Texas,Blanco County,2012,8.98
 Texas,Blanco County,2011,9.27
 Texas,Blanco County,2010,9.56
-Texas,Blanco County,2009,11.0
+Texas,Blanco County,2009,11
 Texas,Borden County,2018,0.6
 Texas,Borden County,2017,2.57
 Texas,Borden County,2016,2.69
@@ -12260,7 +12260,7 @@ Texas,Borden County,2011,0.92
 Texas,Borden County,2010,0.92
 Texas,Borden County,2009,0.92
 Texas,Bosque County,2018,23.33
-Texas,Bosque County,2017,15.0
+Texas,Bosque County,2017,15
 Texas,Bosque County,2016,14.95
 Texas,Bosque County,2015,14.6
 Texas,Bosque County,2014,14.5
@@ -12304,7 +12304,7 @@ Texas,Brewster County,2017,12.04
 Texas,Brewster County,2016,11.25
 Texas,Brewster County,2015,12.68
 Texas,Brewster County,2014,13.53
-Texas,Brewster County,2013,13.0
+Texas,Brewster County,2013,13
 Texas,Brewster County,2012,12.61
 Texas,Brewster County,2011,12.69
 Texas,Brewster County,2010,12.69
@@ -12643,8 +12643,8 @@ Texas,Dallam County,2018,26.94
 Texas,Dallam County,2017,15.42
 Texas,Dallam County,2016,15.95
 Texas,Dallam County,2015,16.27
-Texas,Dallam County,2014,17.0
-Texas,Dallam County,2013,17.0
+Texas,Dallam County,2014,17
+Texas,Dallam County,2013,17
 Texas,Dallam County,2012,14.57
 Texas,Dallam County,2011,16.67
 Texas,Dallam County,2010,16.67
@@ -12770,7 +12770,7 @@ Texas,Ector County,2011,16.74
 Texas,Ector County,2010,16.74
 Texas,Ector County,2009,16.74
 Texas,Edwards County,2018,7.48
-Texas,Edwards County,2017,7.0
+Texas,Edwards County,2017,7
 Texas,Edwards County,2016,7.52
 Texas,Edwards County,2015,9.33
 Texas,Edwards County,2014,10.82
@@ -13033,8 +13033,8 @@ Texas,Hale County,2018,4.83
 Texas,Hale County,2017,19.12
 Texas,Hale County,2016,20.68
 Texas,Hale County,2015,21.29
-Texas,Hale County,2014,23.0
-Texas,Hale County,2013,23.0
+Texas,Hale County,2014,23
+Texas,Hale County,2013,23
 Texas,Hale County,2012,63.35
 Texas,Hale County,2011,17.63
 Texas,Hale County,2010,17.63
@@ -13092,7 +13092,7 @@ Texas,Hardin County,2009,12.14
 Texas,Harris County,2018,16.22
 Texas,Harris County,2017,16.4
 Texas,Harris County,2016,0.07
-Texas,Harris County,2015,8590.0
+Texas,Harris County,2015,8590
 Texas,Harris County,2014,17.96
 Texas,Harris County,2013,16.46
 Texas,Harris County,2012,17.25
@@ -13206,7 +13206,7 @@ Texas,Hopkins County,2015,19.48
 Texas,Hopkins County,2014,19.77
 Texas,Hopkins County,2013,19.86
 Texas,Hopkins County,2012,19.86
-Texas,Hopkins County,2011,18.0
+Texas,Hopkins County,2011,18
 Texas,Hopkins County,2010,17.98
 Texas,Hopkins County,2009,17.98
 Texas,Houston County,2018,24.51
@@ -13215,7 +13215,7 @@ Texas,Houston County,2016,24.51
 Texas,Houston County,2015,24.88
 Texas,Houston County,2014,25.01
 Texas,Houston County,2013,21.99
-Texas,Houston County,2012,19.0
+Texas,Houston County,2012,19
 Texas,Houston County,2011,19.54
 Texas,Houston County,2010,19.54
 Texas,Houston County,2009,23.21
@@ -13479,7 +13479,7 @@ Texas,La Salle County,2012,18.68
 Texas,La Salle County,2011,23.58
 Texas,La Salle County,2010,23.63
 Texas,La Salle County,2009,23.63
-Texas,Lamar County,2018,39.0
+Texas,Lamar County,2018,39
 Texas,Lamar County,2017,17.78
 Texas,Lamar County,2016,19.73
 Texas,Lamar County,2015,19.86
@@ -13595,7 +13595,7 @@ Texas,Loving County,2016,17.14
 Texas,Loving County,2015,31.63
 Texas,Loving County,2014,28.95
 Texas,Loving County,2013,28.95
-Texas,Loving County,2012,12.0
+Texas,Loving County,2012,12
 Texas,Loving County,2011,10.59
 Texas,Loving County,2010,10.59
 Texas,Loving County,2009,10.59
@@ -14002,7 +14002,7 @@ Texas,Randall County,2009,8.68
 Texas,Reagan County,2018,1.57
 Texas,Reagan County,2017,15.2
 Texas,Reagan County,2016,17.44
-Texas,Reagan County,2015,16.0
+Texas,Reagan County,2015,16
 Texas,Reagan County,2014,27.86
 Texas,Reagan County,2013,17.53
 Texas,Reagan County,2012,9.04
@@ -14167,8 +14167,8 @@ Texas,Scurry County,2014,9.85
 Texas,Scurry County,2013,9.86
 Texas,Scurry County,2012,12.11
 Texas,Scurry County,2011,15.99
-Texas,Scurry County,2010,16.0
-Texas,Scurry County,2009,16.0
+Texas,Scurry County,2010,16
+Texas,Scurry County,2009,16
 Texas,Shackelford County,2018,5.15
 Texas,Shackelford County,2017,15.19
 Texas,Shackelford County,2016,18.38
@@ -14384,7 +14384,7 @@ Texas,Upshur County,2017,13.44
 Texas,Upshur County,2016,13.53
 Texas,Upshur County,2015,13.52
 Texas,Upshur County,2014,13.49
-Texas,Upshur County,2013,14.0
+Texas,Upshur County,2013,14
 Texas,Upshur County,2012,14.2
 Texas,Upshur County,2011,14.3
 Texas,Upshur County,2010,14.3
@@ -14425,7 +14425,7 @@ Texas,Van Zandt County,2016,15.77
 Texas,Van Zandt County,2015,16.31
 Texas,Van Zandt County,2014,16.91
 Texas,Van Zandt County,2013,9.65
-Texas,Van Zandt County,2012,82.0
+Texas,Van Zandt County,2012,82
 Texas,Van Zandt County,2011,17.11
 Texas,Van Zandt County,2010,17.11
 Texas,Van Zandt County,2009,17.11
@@ -14605,7 +14605,7 @@ Texas,Young County,2016,15.83
 Texas,Young County,2015,15.26
 Texas,Young County,2014,15.24
 Texas,Young County,2013,15.08
-Texas,Young County,2012,15.0
+Texas,Young County,2012,15
 Texas,Young County,2011,15.19
 Texas,Young County,2010,15.19
 Texas,Young County,2009,15.19
@@ -14921,7 +14921,7 @@ Utah,Weber County,2010,12.24
 Utah,Weber County,2009,12.24
 Vermont,Addison County,2018,1.82
 Vermont,Addison County,2017,7.75
-Vermont,Addison County,2016,17.0
+Vermont,Addison County,2016,17
 Vermont,Addison County,2015,10.42
 Vermont,Addison County,2014,9.15
 Vermont,Addison County,2013,9.15
@@ -15025,7 +15025,7 @@ Vermont,Rutland County,2016,12.2
 Vermont,Rutland County,2015,12.48
 Vermont,Rutland County,2014,12.47
 Vermont,Rutland County,2013,12.47
-Vermont,Rutland County,2012,13.0
+Vermont,Rutland County,2012,13
 Vermont,Rutland County,2011,12.95
 Vermont,Rutland County,2010,12.95
 Vermont,Rutland County,2009,12.95
@@ -15087,9 +15087,9 @@ Virginia,Alexandria city,2014,8.39
 Virginia,Alexandria city,2013,8.34
 Virginia,Alexandria city,2012,8.34
 Virginia,Alexandria city,2011,7.96
-Virginia,Alexandria city,2010,8.0
-Virginia,Alexandria city,2009,8.0
-Virginia,Alleghany County,2018,8.0
+Virginia,Alexandria city,2010,8
+Virginia,Alexandria city,2009,8
+Virginia,Alleghany County,2018,8
 Virginia,Alleghany County,2017,19.37
 Virginia,Alleghany County,2016,19.02
 Virginia,Alleghany County,2015,17.41
@@ -15104,7 +15104,7 @@ Virginia,Amelia County,2017,13.06
 Virginia,Amelia County,2016,12.06
 Virginia,Amelia County,2015,11.6
 Virginia,Amelia County,2014,11.61
-Virginia,Amelia County,2013,10.0
+Virginia,Amelia County,2013,10
 Virginia,Amelia County,2012,9.92
 Virginia,Amelia County,2011,10.11
 Virginia,Amelia County,2010,10.11
@@ -15436,9 +15436,9 @@ Virginia,Fairfax city,2015,6.62
 Virginia,Fairfax city,2014,13.18
 Virginia,Fairfax city,2013,8.09
 Virginia,Fairfax city,2012,6.66
-Virginia,Fairfax city,2011,6.0
-Virginia,Fairfax city,2010,6.0
-Virginia,Fairfax city,2009,6.0
+Virginia,Fairfax city,2011,6
+Virginia,Fairfax city,2010,6
+Virginia,Fairfax city,2009,6
 Virginia,Fairfax County,2018,6.17
 Virginia,Fairfax County,2017,6.17
 Virginia,Fairfax County,2016,0.24
@@ -15523,7 +15523,7 @@ Virginia,Fredericksburg city,2018,6.93
 Virginia,Fredericksburg city,2017,15.35
 Virginia,Fredericksburg city,2016,16.5
 Virginia,Fredericksburg city,2015,16.41
-Virginia,Fredericksburg city,2014,23.0
+Virginia,Fredericksburg city,2014,23
 Virginia,Fredericksburg city,2013,40.51
 Virginia,Fredericksburg city,2012,17.17
 Virginia,Fredericksburg city,2011,17.17
@@ -15725,7 +15725,7 @@ Virginia,King William County,2016,12.09
 Virginia,King William County,2015,12.14
 Virginia,King William County,2014,11.84
 Virginia,King William County,2013,10.72
-Virginia,King William County,2012,8.0
+Virginia,King William County,2012,8
 Virginia,King William County,2011,7.85
 Virginia,King William County,2010,7.85
 Virginia,King William County,2009,7.85
@@ -15773,7 +15773,7 @@ Virginia,Louisa County,2018,2.3
 Virginia,Louisa County,2017,11.85
 Virginia,Louisa County,2016,11.87
 Virginia,Louisa County,2015,10.18
-Virginia,Louisa County,2014,10.0
+Virginia,Louisa County,2014,10
 Virginia,Louisa County,2013,9.74
 Virginia,Louisa County,2012,9.84
 Virginia,Louisa County,2011,9.95
@@ -15933,7 +15933,7 @@ Virginia,Northumberland County,2018,22.44
 Virginia,Northumberland County,2017,13.55
 Virginia,Northumberland County,2016,12.32
 Virginia,Northumberland County,2015,11.01
-Virginia,Northumberland County,2014,11.0
+Virginia,Northumberland County,2014,11
 Virginia,Northumberland County,2013,10.93
 Virginia,Northumberland County,2012,9.47
 Virginia,Northumberland County,2011,9.26
@@ -15955,7 +15955,7 @@ Virginia,Nottoway County,2016,21.37
 Virginia,Nottoway County,2015,23.2
 Virginia,Nottoway County,2014,24.14
 Virginia,Nottoway County,2013,24.14
-Virginia,Nottoway County,2012,17.0
+Virginia,Nottoway County,2012,17
 Virginia,Nottoway County,2011,16.81
 Virginia,Nottoway County,2010,16.81
 Virginia,Nottoway County,2009,16.81
@@ -16032,7 +16032,7 @@ Virginia,Portsmouth city,2009,17.49
 Virginia,Powhatan County,2018,2.07
 Virginia,Powhatan County,2017,5.35
 Virginia,Powhatan County,2016,5.46
-Virginia,Powhatan County,2015,5.0
+Virginia,Powhatan County,2015,5
 Virginia,Powhatan County,2014,4.89
 Virginia,Powhatan County,2013,4.89
 Virginia,Powhatan County,2012,4.41
@@ -16142,7 +16142,7 @@ Virginia,Roanoke County,2009,6.24
 Virginia,Rockbridge County,2018,4.17
 Virginia,Rockbridge County,2017,14.52
 Virginia,Rockbridge County,2016,15.12
-Virginia,Rockbridge County,2015,14.0
+Virginia,Rockbridge County,2015,14
 Virginia,Rockbridge County,2014,13.89
 Virginia,Rockbridge County,2013,12.02
 Virginia,Rockbridge County,2012,11.96
@@ -16192,7 +16192,7 @@ Virginia,Scott County,2009,19.27
 Virginia,Shenandoah County,2018,10.88
 Virginia,Shenandoah County,2017,10.51
 Virginia,Shenandoah County,2016,10.59
-Virginia,Shenandoah County,2015,12.0
+Virginia,Shenandoah County,2015,12
 Virginia,Shenandoah County,2014,12.17
 Virginia,Shenandoah County,2013,12.17
 Virginia,Shenandoah County,2012,12.05
@@ -16266,9 +16266,9 @@ Virginia,Surry County,2015,12.9
 Virginia,Surry County,2014,12.91
 Virginia,Surry County,2013,12.91
 Virginia,Surry County,2012,9.55
-Virginia,Surry County,2011,9.0
-Virginia,Surry County,2010,9.0
-Virginia,Surry County,2009,9.0
+Virginia,Surry County,2011,9
+Virginia,Surry County,2010,9
+Virginia,Surry County,2009,9
 Virginia,Sussex County,2018,18.08
 Virginia,Sussex County,2017,17.52
 Virginia,Sussex County,2016,18.14
@@ -16470,7 +16470,7 @@ West Virginia,Clay County,2011,26.34
 West Virginia,Clay County,2010,26.28
 West Virginia,Clay County,2009,26.28
 West Virginia,Doddridge County,2018,15.32
-West Virginia,Doddridge County,2017,15.0
+West Virginia,Doddridge County,2017,15
 West Virginia,Doddridge County,2016,15.15
 West Virginia,Doddridge County,2015,15.53
 West Virginia,Doddridge County,2014,15.71
@@ -16964,7 +16964,7 @@ Washington,Benton County,2017,12.79
 Washington,Benton County,2016,13.76
 Washington,Benton County,2015,13.89
 Washington,Benton County,2014,14.14
-Washington,Benton County,2013,11.0
+Washington,Benton County,2013,11
 Washington,Benton County,2012,11.58
 Washington,Benton County,2011,12.75
 Washington,Benton County,2010,12.94
@@ -17275,13 +17275,13 @@ Washington,Thurston County,2016,11.98
 Washington,Thurston County,2015,12.21
 Washington,Thurston County,2014,12.39
 Washington,Thurston County,2013,11.57
-Washington,Thurston County,2012,11.0
+Washington,Thurston County,2012,11
 Washington,Thurston County,2011,11.06
 Washington,Thurston County,2010,11.06
 Washington,Thurston County,2009,9.5
 Washington,Wahkiakum County,2018,2.06
 Washington,Wahkiakum County,2017,10.93
-Washington,Wahkiakum County,2016,14.0
+Washington,Wahkiakum County,2016,14
 Washington,Wahkiakum County,2015,17.08
 Washington,Wahkiakum County,2014,17.08
 Washington,Wahkiakum County,2013,17.08
@@ -17300,8 +17300,8 @@ Washington,Walla Walla County,2011,17.77
 Washington,Walla Walla County,2010,17.77
 Washington,Walla Walla County,2009,17.77
 Washington,Whatcom County,2018,17.58
-Washington,Whatcom County,2017,15.0
-Washington,Whatcom County,2016,15.0
+Washington,Whatcom County,2017,15
+Washington,Whatcom County,2016,15
 Washington,Whatcom County,2015,14.98
 Washington,Whatcom County,2014,15.26
 Washington,Whatcom County,2013,16.04
@@ -17662,7 +17662,7 @@ Wisconsin,Lafayette County,2009,14.02
 Wisconsin,Langlade County,2018,13.97
 Wisconsin,Langlade County,2017,14.02
 Wisconsin,Langlade County,2016,14.75
-Wisconsin,Langlade County,2015,16.0
+Wisconsin,Langlade County,2015,16
 Wisconsin,Langlade County,2014,15.98
 Wisconsin,Langlade County,2013,15.98
 Wisconsin,Langlade County,2012,15.17
@@ -18473,7 +18473,7 @@ Puerto Rico,Ciales Municipio,2018,40.97
 Puerto Rico,Ciales Municipio,2017,58.44
 Puerto Rico,Ciales Municipio,2016,58.16
 Puerto Rico,Ciales Municipio,2015,59.59
-Puerto Rico,Ciales Municipio,2014,51.0
+Puerto Rico,Ciales Municipio,2014,51
 Puerto Rico,Ciales Municipio,2013,49.05
 Puerto Rico,Ciales Municipio,2012,49.05
 Puerto Rico,Ciales Municipio,2011,60.76
@@ -18575,12 +18575,12 @@ Puerto Rico,Guayanilla Municipio,2016,58.77
 Puerto Rico,Guayanilla Municipio,2015,58.04
 Puerto Rico,Guayanilla Municipio,2014,55.99
 Puerto Rico,Guayanilla Municipio,2013,55.98
-Puerto Rico,Guayanilla Municipio,2012,57.0
+Puerto Rico,Guayanilla Municipio,2012,57
 Puerto Rico,Guayanilla Municipio,2011,55.53
 Puerto Rico,Guayanilla Municipio,2010,55.53
 Puerto Rico,Guayanilla Municipio,2009,55.53
 Puerto Rico,Guaynabo Municipio,2018,109.61
-Puerto Rico,Guaynabo Municipio,2017,27.0
+Puerto Rico,Guaynabo Municipio,2017,27
 Puerto Rico,Guaynabo Municipio,2016,27.39
 Puerto Rico,Guaynabo Municipio,2015,27.26
 Puerto Rico,Guaynabo Municipio,2014,26.9
@@ -18591,7 +18591,7 @@ Puerto Rico,Guaynabo Municipio,2010,26.89
 Puerto Rico,Guaynabo Municipio,2009,26.89
 Puerto Rico,Gurabo Municipio,2018,19.16
 Puerto Rico,Gurabo Municipio,2017,31.04
-Puerto Rico,Gurabo Municipio,2016,32.0
+Puerto Rico,Gurabo Municipio,2016,32
 Puerto Rico,Gurabo Municipio,2015,33.88
 Puerto Rico,Gurabo Municipio,2014,34.09
 Puerto Rico,Gurabo Municipio,2013,34.09
@@ -18666,9 +18666,9 @@ Puerto Rico,Juana D�az Municipio,2015,51.49
 Puerto Rico,Juana D�az Municipio,2014,51.23
 Puerto Rico,Juana D�az Municipio,2013,51.23
 Puerto Rico,Juana D�az Municipio,2012,52.93
-Puerto Rico,Juana D�az Municipio,2011,53.0
-Puerto Rico,Juana D�az Municipio,2010,53.0
-Puerto Rico,Juana D�az Municipio,2009,53.0
+Puerto Rico,Juana D�az Municipio,2011,53
+Puerto Rico,Juana D�az Municipio,2010,53
+Puerto Rico,Juana D�az Municipio,2009,53
 Puerto Rico,Juncos Municipio,2018,41.14
 Puerto Rico,Juncos Municipio,2017,51.34
 Puerto Rico,Juncos Municipio,2016,49.36
@@ -18703,8 +18703,8 @@ Puerto Rico,Las Mar�as Municipio,2018,20.62
 Puerto Rico,Las Mar�as Municipio,2017,58.07
 Puerto Rico,Las Mar�as Municipio,2016,59.14
 Puerto Rico,Las Mar�as Municipio,2015,59.16
-Puerto Rico,Las Mar�as Municipio,2014,58.0
-Puerto Rico,Las Mar�as Municipio,2013,58.0
+Puerto Rico,Las Mar�as Municipio,2014,58
+Puerto Rico,Las Mar�as Municipio,2013,58
 Puerto Rico,Las Mar�as Municipio,2012,60.37
 Puerto Rico,Las Mar�as Municipio,2011,59.14
 Puerto Rico,Las Mar�as Municipio,2010,59.14
@@ -18746,9 +18746,9 @@ Puerto Rico,Manat� Municipio,2015,46.35
 Puerto Rico,Manat� Municipio,2014,46.2
 Puerto Rico,Manat� Municipio,2013,45.4
 Puerto Rico,Manat� Municipio,2012,52.06
-Puerto Rico,Manat� Municipio,2011,49.0
-Puerto Rico,Manat� Municipio,2010,49.0
-Puerto Rico,Manat� Municipio,2009,49.0
+Puerto Rico,Manat� Municipio,2011,49
+Puerto Rico,Manat� Municipio,2010,49
+Puerto Rico,Manat� Municipio,2009,49
 Puerto Rico,Maricao Municipio,2018,14.24
 Puerto Rico,Maricao Municipio,2017,64.27
 Puerto Rico,Maricao Municipio,2016,64.83
@@ -18759,7 +18759,7 @@ Puerto Rico,Maricao Municipio,2012,21.08
 Puerto Rico,Maricao Municipio,2011,59.49
 Puerto Rico,Maricao Municipio,2010,59.49
 Puerto Rico,Maricao Municipio,2009,59.49
-Puerto Rico,Maunabo Municipio,2018,74.0
+Puerto Rico,Maunabo Municipio,2018,74
 Puerto Rico,Maunabo Municipio,2017,52.51
 Puerto Rico,Maunabo Municipio,2016,55.81
 Puerto Rico,Maunabo Municipio,2015,41.13
@@ -18900,11 +18900,11 @@ Puerto Rico,Sabana Grande Municipio,2011,50.45
 Puerto Rico,Sabana Grande Municipio,2010,50.45
 Puerto Rico,Sabana Grande Municipio,2009,50.45
 Puerto Rico,Salinas Municipio,2018,53.23
-Puerto Rico,Salinas Municipio,2017,54.0
+Puerto Rico,Salinas Municipio,2017,54
 Puerto Rico,Salinas Municipio,2016,53.67
 Puerto Rico,Salinas Municipio,2015,42.4
 Puerto Rico,Salinas Municipio,2014,53.49
-Puerto Rico,Salinas Municipio,2013,95.0
+Puerto Rico,Salinas Municipio,2013,95
 Puerto Rico,Salinas Municipio,2012,58.25
 Puerto Rico,Salinas Municipio,2011,59.49
 Puerto Rico,Salinas Municipio,2010,59.49
@@ -18990,7 +18990,7 @@ Puerto Rico,Trujillo Alto Municipio,2011,30.74
 Puerto Rico,Trujillo Alto Municipio,2010,30.74
 Puerto Rico,Trujillo Alto Municipio,2009,30.74
 Puerto Rico,Utuado Municipio,2018,20.82
-Puerto Rico,Utuado Municipio,2017,53.0
+Puerto Rico,Utuado Municipio,2017,53
 Puerto Rico,Utuado Municipio,2016,55.6
 Puerto Rico,Utuado Municipio,2015,31.91
 Puerto Rico,Utuado Municipio,2014,52.31
@@ -19413,8 +19413,8 @@ Alabama,Jackson County,2018,18.92
 Alabama,Jackson County,2017,19.77
 Alabama,Jackson County,2016,18.85
 Alabama,Jackson County,2015,18.2
-Alabama,Jackson County,2014,18.0
-Alabama,Jackson County,2013,18.0
+Alabama,Jackson County,2014,18
+Alabama,Jackson County,2013,18
 Alabama,Jackson County,2012,17.07
 Alabama,Jackson County,2011,16.19
 Alabama,Jackson County,2010,16.19
@@ -19779,7 +19779,7 @@ Alaska,Bristol Bay Borough,2012,6.36
 Alaska,Bristol Bay Borough,2011,6.16
 Alaska,Bristol Bay Borough,2010,6.16
 Alaska,Bristol Bay Borough,2009,6.16
-Alaska,Denali Borough,2018,17.0
+Alaska,Denali Borough,2018,17
 Alaska,Denali Borough,2017,16.58
 Alaska,Denali Borough,2016,11.72
 Alaska,Denali Borough,2015,12.15
@@ -19806,8 +19806,8 @@ Alaska,Fairbanks North Star Borough,2015,8.03
 Alaska,Fairbanks North Star Borough,2014,8.09
 Alaska,Fairbanks North Star Borough,2013,7.68
 Alaska,Fairbanks North Star Borough,2012,7.58
-Alaska,Fairbanks North Star Borough,2011,8.0
-Alaska,Fairbanks North Star Borough,2010,8.0
+Alaska,Fairbanks North Star Borough,2011,8
+Alaska,Fairbanks North Star Borough,2010,8
 Alaska,Fairbanks North Star Borough,2009,7.45
 Alaska,Haines Borough,2018,1.78
 Alaska,Haines Borough,2017,8.7
@@ -19849,7 +19849,7 @@ Alaska,Kenai Peninsula Borough,2012,9.12
 Alaska,Kenai Peninsula Borough,2011,9.12
 Alaska,Kenai Peninsula Borough,2010,9.12
 Alaska,Kenai Peninsula Borough,2009,9.12
-Alaska,Ketchikan Gateway Borough,2018,4.0
+Alaska,Ketchikan Gateway Borough,2018,4
 Alaska,Ketchikan Gateway Borough,2017,10.56
 Alaska,Ketchikan Gateway Borough,2016,10.73
 Alaska,Ketchikan Gateway Borough,2015,11.86
@@ -19903,7 +19903,7 @@ Alaska,Nome Census Area,2018,5.89
 Alaska,Nome Census Area,2017,23.14
 Alaska,Nome Census Area,2016,23.14
 Alaska,Nome Census Area,2015,23.14
-Alaska,Nome Census Area,2014,27.0
+Alaska,Nome Census Area,2014,27
 Alaska,Nome Census Area,2013,27.05
 Alaska,Nome Census Area,2012,26.78
 Alaska,Nome Census Area,2011,26.46
@@ -19941,7 +19941,7 @@ Alaska,Petersburg Borough,2010,10.16
 Alaska,Petersburg Borough,2009,8.93
 Alaska,Prince of Wales-Hyder Census Area,2018,8.93
 Alaska,Prince of Wales-Hyder Census Area,2017,15.96
-Alaska,Prince of Wales-Hyder Census Area,2016,16.0
+Alaska,Prince of Wales-Hyder Census Area,2016,16
 Alaska,Prince of Wales-Hyder Census Area,2015,14.62
 Alaska,Prince of Wales-Hyder Census Area,2014,14.6
 Alaska,Prince of Wales-Hyder Census Area,2013,14.6
@@ -19959,7 +19959,7 @@ Alaska,Sitka City and Borough,2012,7.49
 Alaska,Sitka City and Borough,2011,6.96
 Alaska,Sitka City and Borough,2010,6.57
 Alaska,Sitka City and Borough,2009,6.63
-Alaska,Skagway Municipality,2018,1.0
+Alaska,Skagway Municipality,2018,1
 Alaska,Skagway Municipality,2017,5.31
 Alaska,Skagway Municipality,2016,5.21
 Alaska,Skagway Municipality,2015,5.25
@@ -20061,7 +20061,7 @@ Arizona,Gila County,2010,20.83
 Arizona,Gila County,2009,20.83
 Arizona,Graham County,2018,21.28
 Arizona,Graham County,2017,30.29
-Arizona,Graham County,2016,8.0
+Arizona,Graham County,2016,8
 Arizona,Graham County,2015,22.54
 Arizona,Graham County,2014,22.62
 Arizona,Graham County,2013,19.48
@@ -20150,7 +20150,7 @@ Arizona,Santa Cruz County,2011,26.73
 Arizona,Santa Cruz County,2010,26.75
 Arizona,Santa Cruz County,2009,26.75
 Arizona,Yavapai County,2018,14.01
-Arizona,Yavapai County,2017,14.0
+Arizona,Yavapai County,2017,14
 Arizona,Yavapai County,2016,14.68
 Arizona,Yavapai County,2015,15.42
 Arizona,Yavapai County,2014,16.02
@@ -20272,7 +20272,7 @@ Arkansas,Clark County,2009,14.91
 Arkansas,Clay County,2018,24.82
 Arkansas,Clay County,2017,22.53
 Arkansas,Clay County,2016,22.23
-Arkansas,Clay County,2015,22.0
+Arkansas,Clay County,2015,22
 Arkansas,Clay County,2014,21.84
 Arkansas,Clay County,2013,21.84
 Arkansas,Clay County,2012,19.23
@@ -20291,7 +20291,7 @@ Arkansas,Cleburne County,2010,16.58
 Arkansas,Cleburne County,2009,16.58
 Arkansas,Cleveland County,2018,10.32
 Arkansas,Cleveland County,2017,19.45
-Arkansas,Cleveland County,2016,20.0
+Arkansas,Cleveland County,2016,20
 Arkansas,Cleveland County,2015,20.72
 Arkansas,Cleveland County,2014,24.37
 Arkansas,Cleveland County,2013,12.72
@@ -20359,7 +20359,7 @@ Arkansas,Cross County,2012,12.1
 Arkansas,Cross County,2011,16.21
 Arkansas,Cross County,2010,16.21
 Arkansas,Cross County,2009,16.21
-Arkansas,Dallas County,2018,8.0
+Arkansas,Dallas County,2018,8
 Arkansas,Dallas County,2017,13.7
 Arkansas,Dallas County,2016,14.69
 Arkansas,Dallas County,2015,171.22
@@ -20802,7 +20802,7 @@ Arkansas,Scott County,2009,20.01
 Arkansas,Searcy County,2018,17.26
 Arkansas,Searcy County,2017,18.11
 Arkansas,Searcy County,2016,20.07
-Arkansas,Searcy County,2015,23.0
+Arkansas,Searcy County,2015,23
 Arkansas,Searcy County,2014,23.6
 Arkansas,Searcy County,2013,23.6
 Arkansas,Searcy County,2012,25.27
@@ -21135,7 +21135,7 @@ California,Mariposa County,2016,16.04
 California,Mariposa County,2015,15.21
 California,Mariposa County,2014,15.05
 California,Mariposa County,2013,15.63
-California,Mariposa County,2012,15.0
+California,Mariposa County,2012,15
 California,Mariposa County,2011,14.67
 California,Mariposa County,2010,14.67
 California,Mariposa County,2009,14.67
@@ -21611,7 +21611,7 @@ Colorado,Clear Creek County,2010,7.09
 Colorado,Clear Creek County,2009,7.09
 Colorado,Conejos County,2018,7.09
 Colorado,Conejos County,2017,21.34
-Colorado,Conejos County,2016,22.0
+Colorado,Conejos County,2016,22
 Colorado,Conejos County,2015,18.97
 Colorado,Conejos County,2014,18.27
 Colorado,Conejos County,2013,8.05
@@ -21688,7 +21688,7 @@ Colorado,Douglas County,2013,3.62
 Colorado,Douglas County,2012,3.84
 Colorado,Douglas County,2011,2.98
 Colorado,Douglas County,2010,15.5
-Colorado,Douglas County,2009,5.0
+Colorado,Douglas County,2009,5
 Colorado,Eagle County,2018,1.67
 Colorado,Eagle County,2017,7.55
 Colorado,Eagle County,2016,7.94
@@ -21715,7 +21715,7 @@ Colorado,Elbert County,2016,4.85
 Colorado,Elbert County,2015,6.76
 Colorado,Elbert County,2014,6.96
 Colorado,Elbert County,2013,6.96
-Colorado,Elbert County,2012,6.0
+Colorado,Elbert County,2012,6
 Colorado,Elbert County,2011,6.03
 Colorado,Elbert County,2010,6.03
 Colorado,Elbert County,2009,6.03
@@ -21859,7 +21859,7 @@ Colorado,Larimer County,2012,13.67
 Colorado,Larimer County,2011,13.67
 Colorado,Larimer County,2010,13.67
 Colorado,Larimer County,2009,12.98
-Colorado,Las Animas County,2018,8.0
+Colorado,Las Animas County,2018,8
 Colorado,Las Animas County,2017,17.68
 Colorado,Las Animas County,2016,14.65
 Colorado,Las Animas County,2015,14.9
@@ -21949,7 +21949,7 @@ Colorado,Morgan County,2012,14.04
 Colorado,Morgan County,2011,14.6
 Colorado,Morgan County,2010,14.6
 Colorado,Morgan County,2009,14.6
-Colorado,Otero County,2018,24.0
+Colorado,Otero County,2018,24
 Colorado,Otero County,2017,23.65
 Colorado,Otero County,2016,23.14
 Colorado,Otero County,2015,24.28
@@ -22162,9 +22162,9 @@ Connecticut,Hartford County,2009,9.5
 Connecticut,Litchfield County,2018,3.49
 Connecticut,Litchfield County,2017,6.99
 Connecticut,Litchfield County,2016,6.94
-Connecticut,Litchfield County,2015,7.0
-Connecticut,Litchfield County,2014,7.0
-Connecticut,Litchfield County,2013,7.0
+Connecticut,Litchfield County,2015,7
+Connecticut,Litchfield County,2014,7
+Connecticut,Litchfield County,2013,7
 Connecticut,Litchfield County,2012,6.42
 Connecticut,Litchfield County,2011,6.15
 Connecticut,Litchfield County,2010,6.15
@@ -22253,7 +22253,7 @@ District of Columbia,District of Columbia,2018,17.84
 District of Columbia,District of Columbia,2017,17.14
 District of Columbia,District of Columbia,2016,17.67
 District of Columbia,District of Columbia,2015,17.84
-District of Columbia,District of Columbia,2014,18.0
+District of Columbia,District of Columbia,2014,18
 District of Columbia,District of Columbia,2013,16.97
 District of Columbia,District of Columbia,2012,17.86
 District of Columbia,District of Columbia,2011,17.17
@@ -22269,7 +22269,7 @@ Florida,Alachua County,2012,22.34
 Florida,Alachua County,2011,23.78
 Florida,Alachua County,2010,22.62
 Florida,Alachua County,2009,21.81
-Florida,Baker County,2018,22.0
+Florida,Baker County,2018,22
 Florida,Baker County,2017,17.06
 Florida,Baker County,2016,17.85
 Florida,Baker County,2015,18.12
@@ -22754,7 +22754,7 @@ Florida,Palm Beach County,2017,12.82
 Florida,Palm Beach County,2016,13.81
 Florida,Palm Beach County,2015,14.13
 Florida,Palm Beach County,2014,14.51
-Florida,Palm Beach County,2013,14.0
+Florida,Palm Beach County,2013,14
 Florida,Palm Beach County,2012,13.64
 Florida,Palm Beach County,2011,13.12
 Florida,Palm Beach County,2010,12.35
@@ -22792,7 +22792,7 @@ Florida,Polk County,2009,13.67
 Florida,Putnam County,2018,4.66
 Florida,Putnam County,2017,26.52
 Florida,Putnam County,2016,27.09
-Florida,Putnam County,2015,27.0
+Florida,Putnam County,2015,27
 Florida,Putnam County,2014,28.64
 Florida,Putnam County,2013,28.65
 Florida,Putnam County,2012,26.22
@@ -23050,7 +23050,7 @@ Georgia,Bleckley County,2011,13.7
 Georgia,Bleckley County,2010,13.7
 Georgia,Bleckley County,2009,13.7
 Georgia,Brantley County,2018,24.25
-Georgia,Brantley County,2017,23.0
+Georgia,Brantley County,2017,23
 Georgia,Brantley County,2016,21.23
 Georgia,Brantley County,2015,21.06
 Georgia,Brantley County,2014,21.04
@@ -23413,8 +23413,8 @@ Georgia,Early County,2018,3.33
 Georgia,Early County,2017,28.24
 Georgia,Early County,2016,30.73
 Georgia,Early County,2015,28.63
-Georgia,Early County,2014,28.0
-Georgia,Early County,2013,28.0
+Georgia,Early County,2014,28
+Georgia,Early County,2013,28
 Georgia,Early County,2012,29.25
 Georgia,Early County,2011,29.25
 Georgia,Early County,2010,29.25
@@ -23554,7 +23554,7 @@ Georgia,Glynn County,2017,18.29
 Georgia,Glynn County,2016,18.7
 Georgia,Glynn County,2015,18.59
 Georgia,Glynn County,2014,18.67
-Georgia,Glynn County,2013,18.0
+Georgia,Glynn County,2013,18
 Georgia,Glynn County,2012,17.52
 Georgia,Glynn County,2011,17.69
 Georgia,Glynn County,2010,17.69
@@ -23981,7 +23981,7 @@ Georgia,Murray County,2010,19.84
 Georgia,Murray County,2009,19.84
 Georgia,Muscogee County,2018,21.17
 Georgia,Muscogee County,2017,21.6
-Georgia,Muscogee County,2016,21.0
+Georgia,Muscogee County,2016,21
 Georgia,Muscogee County,2015,20.44
 Georgia,Muscogee County,2014,20.46
 Georgia,Muscogee County,2013,18.03
@@ -24140,7 +24140,7 @@ Georgia,Richmond County,2011,24.4
 Georgia,Richmond County,2010,24.4
 Georgia,Richmond County,2009,24.4
 Georgia,Rockdale County,2018,9.55
-Georgia,Rockdale County,2017,16.0
+Georgia,Rockdale County,2017,16
 Georgia,Rockdale County,2016,17.03
 Georgia,Rockdale County,2015,16.47
 Georgia,Rockdale County,2014,16.48
@@ -24271,7 +24271,7 @@ Georgia,Telfair County,2010,34.13
 Georgia,Telfair County,2009,34.13
 Georgia,Terrell County,2018,27.71
 Georgia,Terrell County,2017,34.66
-Georgia,Terrell County,2016,35.0
+Georgia,Terrell County,2016,35
 Georgia,Terrell County,2015,36.17
 Georgia,Terrell County,2014,36.21
 Georgia,Terrell County,2013,36.21
@@ -24336,7 +24336,7 @@ Georgia,Troup County,2015,21.85
 Georgia,Troup County,2014,21.45
 Georgia,Troup County,2013,21.68
 Georgia,Troup County,2012,21.77
-Georgia,Troup County,2011,20.0
+Georgia,Troup County,2011,20
 Georgia,Troup County,2010,18.45
 Georgia,Troup County,2009,18.45
 Georgia,Turner County,2018,20.72
@@ -24463,7 +24463,7 @@ Georgia,White County,2018,45.13
 Georgia,White County,2017,15.73
 Georgia,White County,2016,18.93
 Georgia,White County,2015,18.93
-Georgia,White County,2014,19.0
+Georgia,White County,2014,19
 Georgia,White County,2013,18.53
 Georgia,White County,2012,17.06
 Georgia,White County,2011,17.23
@@ -24530,7 +24530,7 @@ Idaho,Ada County,2011,12.17
 Idaho,Ada County,2010,12.17
 Idaho,Ada County,2009,8.32
 Idaho,Adams County,2018,8.52
-Idaho,Adams County,2017,12.0
+Idaho,Adams County,2017,12
 Idaho,Adams County,2016,13.96
 Idaho,Adams County,2015,13.14
 Idaho,Adams County,2014,12.86
@@ -24919,7 +24919,7 @@ Idaho,Shoshone County,2012,17.12
 Idaho,Shoshone County,2011,17.19
 Idaho,Shoshone County,2010,17.19
 Idaho,Shoshone County,2009,17.19
-Idaho,Teton County,2018,6.0
+Idaho,Teton County,2018,6
 Idaho,Teton County,2017,6.14
 Idaho,Teton County,2016,12.06
 Idaho,Teton County,2015,11.48
@@ -25105,7 +25105,7 @@ Illinois,Champaign County,2016,21.49
 Illinois,Champaign County,2015,22.81
 Illinois,Champaign County,2014,22.81
 Illinois,Champaign County,2013,21.42
-Illinois,Champaign County,2012,21.0
+Illinois,Champaign County,2012,21
 Illinois,Champaign County,2011,22.08
 Illinois,Champaign County,2010,22.08
 Illinois,Champaign County,2009,17.6
@@ -25399,7 +25399,7 @@ Illinois,Jackson County,2012,28.3
 Illinois,Jackson County,2011,29.54
 Illinois,Jackson County,2010,29.54
 Illinois,Jackson County,2009,26.61
-Illinois,Jasper County,2018,25.0
+Illinois,Jasper County,2018,25
 Illinois,Jasper County,2017,12.45
 Illinois,Jasper County,2016,12.39
 Illinois,Jasper County,2015,9.19
@@ -25451,7 +25451,7 @@ Illinois,Johnson County,2010,11.29
 Illinois,Johnson County,2009,11.29
 Illinois,Kane County,2018,9.97
 Illinois,Kane County,2017,10.28
-Illinois,Kane County,2016,11.0
+Illinois,Kane County,2016,11
 Illinois,Kane County,2015,11.22
 Illinois,Kane County,2014,11.38
 Illinois,Kane County,2013,11.09
@@ -25486,9 +25486,9 @@ Illinois,Knox County,2015,17.62
 Illinois,Knox County,2014,18.82
 Illinois,Knox County,2013,16.11
 Illinois,Knox County,2012,15.03
-Illinois,Knox County,2011,16.0
-Illinois,Knox County,2010,16.0
-Illinois,Knox County,2009,16.0
+Illinois,Knox County,2011,16
+Illinois,Knox County,2010,16
+Illinois,Knox County,2009,16
 Illinois,Lake County,2018,2.6
 Illinois,Lake County,2017,31.01
 Illinois,Lake County,2016,8.85
@@ -25646,9 +25646,9 @@ Illinois,McLean County,2015,14.38
 Illinois,McLean County,2014,14.4
 Illinois,McLean County,2013,14.14
 Illinois,McLean County,2012,13.93
-Illinois,McLean County,2011,14.0
-Illinois,McLean County,2010,14.0
-Illinois,McLean County,2009,14.0
+Illinois,McLean County,2011,14
+Illinois,McLean County,2010,14
+Illinois,McLean County,2009,14
 Illinois,Menard County,2018,3.12
 Illinois,Menard County,2017,10.6
 Illinois,Menard County,2016,12.52
@@ -25711,7 +25711,7 @@ Illinois,Moultrie County,2010,10.69
 Illinois,Moultrie County,2009,10.69
 Illinois,Ogle County,2018,11.52
 Illinois,Ogle County,2017,10.51
-Illinois,Ogle County,2016,11.0
+Illinois,Ogle County,2016,11
 Illinois,Ogle County,2015,10.67
 Illinois,Ogle County,2014,10.59
 Illinois,Ogle County,2013,10.78
@@ -25849,9 +25849,9 @@ Illinois,Schuyler County,2012,10.05
 Illinois,Schuyler County,2011,14.65
 Illinois,Schuyler County,2010,14.65
 Illinois,Schuyler County,2009,14.65
-Illinois,Scott County,2018,11.0
+Illinois,Scott County,2018,11
 Illinois,Scott County,2017,14.5
-Illinois,Scott County,2016,15.0
+Illinois,Scott County,2016,15
 Illinois,Scott County,2015,14.31
 Illinois,Scott County,2014,14.16
 Illinois,Scott County,2013,14.16
@@ -25876,9 +25876,9 @@ Illinois,St. Clair County,2015,18.22
 Illinois,St. Clair County,2014,2.05
 Illinois,St. Clair County,2013,481.19
 Illinois,St. Clair County,2012,16.53
-Illinois,St. Clair County,2011,17.0
-Illinois,St. Clair County,2010,17.0
-Illinois,St. Clair County,2009,17.0
+Illinois,St. Clair County,2011,17
+Illinois,St. Clair County,2010,17
+Illinois,St. Clair County,2009,17
 Illinois,Stark County,2018,0.9
 Illinois,Stark County,2017,15.03
 Illinois,Stark County,2016,11.82
@@ -25989,7 +25989,7 @@ Illinois,Whiteside County,2012,11.89
 Illinois,Whiteside County,2011,12.22
 Illinois,Whiteside County,2010,12.22
 Illinois,Whiteside County,2009,12.22
-Illinois,Will County,2018,7.0
+Illinois,Will County,2018,7
 Illinois,Will County,2017,7.23
 Illinois,Will County,2016,7.68
 Illinois,Will County,2015,7.8
@@ -26022,7 +26022,7 @@ Illinois,Winnebago County,2009,13.39
 Illinois,Woodford County,2018,9.72
 Illinois,Woodford County,2017,7.35
 Illinois,Woodford County,2016,7.68
-Illinois,Woodford County,2015,8.0
+Illinois,Woodford County,2015,8
 Illinois,Woodford County,2014,8.17
 Illinois,Woodford County,2013,8.07
 Illinois,Woodford County,2012,7.3
@@ -26210,9 +26210,9 @@ Indiana,Delaware County,2011,20.98
 Indiana,Delaware County,2010,20.98
 Indiana,Delaware County,2009,17.43
 Indiana,Dubois County,2018,6.42
-Indiana,Dubois County,2017,11.0
+Indiana,Dubois County,2017,11
 Indiana,Dubois County,2016,8.59
-Indiana,Dubois County,2015,9.0
+Indiana,Dubois County,2015,9
 Indiana,Dubois County,2014,9.83
 Indiana,Dubois County,2013,9.83
 Indiana,Dubois County,2012,8.73
@@ -26312,7 +26312,7 @@ Indiana,Greene County,2009,14.34
 Indiana,Hamilton County,2018,4.73
 Indiana,Hamilton County,2017,4.73
 Indiana,Hamilton County,2016,5.09
-Indiana,Hamilton County,2015,5.0
+Indiana,Hamilton County,2015,5
 Indiana,Hamilton County,2014,4.71
 Indiana,Hamilton County,2013,4.68
 Indiana,Hamilton County,2012,4.58
@@ -26343,7 +26343,7 @@ Indiana,Hendricks County,2018,5.42
 Indiana,Hendricks County,2017,5.11
 Indiana,Hendricks County,2016,5.09
 Indiana,Hendricks County,2015,5.12
-Indiana,Hendricks County,2014,5.0
+Indiana,Hendricks County,2014,5
 Indiana,Hendricks County,2013,4.58
 Indiana,Hendricks County,2012,4.7
 Indiana,Hendricks County,2011,4.86
@@ -26375,7 +26375,7 @@ Indiana,Huntington County,2016,11.97
 Indiana,Huntington County,2015,12.04
 Indiana,Huntington County,2014,12.02
 Indiana,Huntington County,2013,11.41
-Indiana,Huntington County,2012,11.0
+Indiana,Huntington County,2012,11
 Indiana,Huntington County,2011,11.36
 Indiana,Huntington County,2010,11.36
 Indiana,Huntington County,2009,10.18
@@ -26719,7 +26719,7 @@ Indiana,Ripley County,2012,10.08
 Indiana,Ripley County,2011,10.31
 Indiana,Ripley County,2010,10.31
 Indiana,Ripley County,2009,10.31
-Indiana,Rush County,2018,14.0
+Indiana,Rush County,2018,14
 Indiana,Rush County,2017,17.07
 Indiana,Rush County,2016,18.01
 Indiana,Rush County,2015,17.87
@@ -26876,8 +26876,8 @@ Indiana,Wabash County,2015,3.81
 Indiana,Wabash County,2014,14.36
 Indiana,Wabash County,2013,14.36
 Indiana,Wabash County,2012,14.25
-Indiana,Wabash County,2011,14.0
-Indiana,Wabash County,2010,14.0
+Indiana,Wabash County,2011,14
+Indiana,Wabash County,2010,14
 Indiana,Wabash County,2009,11.23
 Indiana,Warren County,2018,5.3
 Indiana,Warren County,2017,9.77
@@ -27223,7 +27223,7 @@ Iowa,Delaware County,2018,8.5
 Iowa,Delaware County,2017,8.82
 Iowa,Delaware County,2016,9.58
 Iowa,Delaware County,2015,9.89
-Iowa,Delaware County,2014,10.0
+Iowa,Delaware County,2014,10
 Iowa,Delaware County,2013,8.48
 Iowa,Delaware County,2012,7.74
 Iowa,Delaware County,2011,7.72
@@ -27416,9 +27416,9 @@ Iowa,Ida County,2015,11.35
 Iowa,Ida County,2014,11.67
 Iowa,Ida County,2013,11.67
 Iowa,Ida County,2012,12.36
-Iowa,Ida County,2011,13.0
-Iowa,Ida County,2010,13.0
-Iowa,Ida County,2009,13.0
+Iowa,Ida County,2011,13
+Iowa,Ida County,2010,13
+Iowa,Ida County,2009,13
 Iowa,Iowa County,2018,9.93
 Iowa,Iowa County,2017,8.51
 Iowa,Iowa County,2016,9.85
@@ -27491,7 +27491,7 @@ Iowa,Keokuk County,2010,12.03
 Iowa,Keokuk County,2009,12.03
 Iowa,Kossuth County,2018,12.03
 Iowa,Kossuth County,2017,10.01
-Iowa,Kossuth County,2016,10.0
+Iowa,Kossuth County,2016,10
 Iowa,Kossuth County,2015,9.08
 Iowa,Kossuth County,2014,9.05
 Iowa,Kossuth County,2013,9.05
@@ -27499,7 +27499,7 @@ Iowa,Kossuth County,2012,9.05
 Iowa,Kossuth County,2011,8.34
 Iowa,Kossuth County,2010,8.33
 Iowa,Kossuth County,2009,8.33
-Iowa,Lee County,2018,17.0
+Iowa,Lee County,2018,17
 Iowa,Lee County,2017,15.75
 Iowa,Lee County,2016,16.46
 Iowa,Lee County,2015,16.74
@@ -27551,7 +27551,7 @@ Iowa,Lyon County,2010,9.27
 Iowa,Lyon County,2009,9.27
 Iowa,Madison County,2018,9.19
 Iowa,Madison County,2017,7.19
-Iowa,Madison County,2016,7.0
+Iowa,Madison County,2016,7
 Iowa,Madison County,2015,7.5
 Iowa,Madison County,2014,7.56
 Iowa,Madison County,2013,7.56
@@ -27816,9 +27816,9 @@ Iowa,Taylor County,2015,4.06
 Iowa,Taylor County,2014,14.13
 Iowa,Taylor County,2013,13.89
 Iowa,Taylor County,2012,14.61
-Iowa,Taylor County,2011,15.0
-Iowa,Taylor County,2010,15.0
-Iowa,Taylor County,2009,15.0
+Iowa,Taylor County,2011,15
+Iowa,Taylor County,2010,15
+Iowa,Taylor County,2009,15
 Iowa,Union County,2018,27.4
 Iowa,Union County,2017,14.03
 Iowa,Union County,2016,13.1
@@ -27861,7 +27861,7 @@ Iowa,Warren County,2010,7.31
 Iowa,Warren County,2009,7.31
 Iowa,Washington County,2018,5.85
 Iowa,Washington County,2017,9.16
-Iowa,Washington County,2016,9.0
+Iowa,Washington County,2016,9
 Iowa,Washington County,2015,9.12
 Iowa,Washington County,2014,9.33
 Iowa,Washington County,2013,9.19
@@ -27880,7 +27880,7 @@ Iowa,Wayne County,2011,14.81
 Iowa,Wayne County,2010,14.81
 Iowa,Wayne County,2009,14.81
 Iowa,Webster County,2018,16.97
-Iowa,Webster County,2017,16.0
+Iowa,Webster County,2017,16
 Iowa,Webster County,2016,15.78
 Iowa,Webster County,2015,15.3
 Iowa,Webster County,2014,15.16
@@ -28094,7 +28094,7 @@ Kansas,Coffey County,2017,11.53
 Kansas,Coffey County,2016,9.61
 Kansas,Coffey County,2015,12.72
 Kansas,Coffey County,2014,12.4
-Kansas,Coffey County,2013,10.0
+Kansas,Coffey County,2013,10
 Kansas,Coffey County,2012,9.96
 Kansas,Coffey County,2011,9.88
 Kansas,Coffey County,2010,9.88
@@ -28179,7 +28179,7 @@ Kansas,Edwards County,2012,15.82
 Kansas,Edwards County,2011,16.07
 Kansas,Edwards County,2010,16.07
 Kansas,Edwards County,2009,16.07
-Kansas,Elk County,2018,14.0
+Kansas,Elk County,2018,14
 Kansas,Elk County,2017,14.64
 Kansas,Elk County,2016,17.4
 Kansas,Elk County,2015,17.36
@@ -28250,7 +28250,7 @@ Kansas,Geary County,2011,10.77
 Kansas,Geary County,2010,10.77
 Kansas,Geary County,2009,10.77
 Kansas,Gove County,2018,11.72
-Kansas,Gove County,2017,185.0
+Kansas,Gove County,2017,185
 Kansas,Gove County,2016,1.05
 Kansas,Gove County,2015,8.88
 Kansas,Gove County,2014,8.19
@@ -28525,7 +28525,7 @@ Kansas,McPherson County,2016,6.76
 Kansas,McPherson County,2015,24.59
 Kansas,McPherson County,2014,21.1
 Kansas,McPherson County,2013,21.1
-Kansas,McPherson County,2012,8.0
+Kansas,McPherson County,2012,8
 Kansas,McPherson County,2011,8.07
 Kansas,McPherson County,2010,8.07
 Kansas,McPherson County,2009,8.07
@@ -28984,7 +28984,7 @@ Kansas,Wyandotte County,2017,20.88
 Kansas,Wyandotte County,2016,22.62
 Kansas,Wyandotte County,2015,23.49
 Kansas,Wyandotte County,2014,23.86
-Kansas,Wyandotte County,2013,22.0
+Kansas,Wyandotte County,2013,22
 Kansas,Wyandotte County,2012,23.13
 Kansas,Wyandotte County,2011,23.4
 Kansas,Wyandotte County,2010,23.4
@@ -29091,7 +29091,7 @@ Kentucky,Boyd County,2010,19.19
 Kentucky,Boyd County,2009,19.19
 Kentucky,Boyle County,2018,23.04
 Kentucky,Boyle County,2017,5.19
-Kentucky,Boyle County,2016,16.0
+Kentucky,Boyle County,2016,16
 Kentucky,Boyle County,2015,16.14
 Kentucky,Boyle County,2014,16.14
 Kentucky,Boyle County,2013,16.51
@@ -29106,9 +29106,9 @@ Kentucky,Bracken County,2015,19.01
 Kentucky,Bracken County,2014,18.52
 Kentucky,Bracken County,2013,16.9
 Kentucky,Bracken County,2012,17.65
-Kentucky,Bracken County,2011,18.0
-Kentucky,Bracken County,2010,18.0
-Kentucky,Bracken County,2009,18.0
+Kentucky,Bracken County,2011,18
+Kentucky,Bracken County,2010,18
+Kentucky,Bracken County,2009,18
 Kentucky,Breathitt County,2018,36.58
 Kentucky,Breathitt County,2017,36.04
 Kentucky,Breathitt County,2016,33.98
@@ -29560,7 +29560,7 @@ Kentucky,Jessamine County,2011,15.85
 Kentucky,Jessamine County,2010,15.85
 Kentucky,Jessamine County,2009,15.85
 Kentucky,Johnson County,2018,14.1
-Kentucky,Johnson County,2017,24.0
+Kentucky,Johnson County,2017,24
 Kentucky,Johnson County,2016,26.07
 Kentucky,Johnson County,2015,26.24
 Kentucky,Johnson County,2014,26.28
@@ -29668,7 +29668,7 @@ Kentucky,Lewis County,2013,27.41
 Kentucky,Lewis County,2012,30.4
 Kentucky,Lewis County,2011,31.7
 Kentucky,Lewis County,2010,31.7
-Kentucky,Lewis County,2009,25.0
+Kentucky,Lewis County,2009,25
 Kentucky,Lincoln County,2018,28.23
 Kentucky,Lincoln County,2017,23.91
 Kentucky,Lincoln County,2016,25.07
@@ -29691,7 +29691,7 @@ Kentucky,Livingston County,2010,13.83
 Kentucky,Livingston County,2009,13.83
 Kentucky,Logan County,2018,17.64
 Kentucky,Logan County,2017,17.37
-Kentucky,Logan County,2016,18.0
+Kentucky,Logan County,2016,18
 Kentucky,Logan County,2015,19.15
 Kentucky,Logan County,2014,19.28
 Kentucky,Logan County,2013,19.28
@@ -29900,7 +29900,7 @@ Kentucky,Nicholas County,2011,16.25
 Kentucky,Nicholas County,2010,16.25
 Kentucky,Nicholas County,2009,16.25
 Kentucky,Ohio County,2018,21.05
-Kentucky,Ohio County,2017,21.0
+Kentucky,Ohio County,2017,21
 Kentucky,Ohio County,2016,17.17
 Kentucky,Ohio County,2015,21.88
 Kentucky,Ohio County,2014,22.01
@@ -30033,8 +30033,8 @@ Kentucky,Scott County,2018,12.07
 Kentucky,Scott County,2017,11.55
 Kentucky,Scott County,2016,10.78
 Kentucky,Scott County,2015,10.74
-Kentucky,Scott County,2014,11.0
-Kentucky,Scott County,2013,11.0
+Kentucky,Scott County,2014,11
+Kentucky,Scott County,2013,11
 Kentucky,Scott County,2012,12.27
 Kentucky,Scott County,2011,13.74
 Kentucky,Scott County,2010,13.74
@@ -30076,9 +30076,9 @@ Kentucky,Taylor County,2015,23.69
 Kentucky,Taylor County,2014,23.73
 Kentucky,Taylor County,2013,23.73
 Kentucky,Taylor County,2012,23.13
-Kentucky,Taylor County,2011,23.0
-Kentucky,Taylor County,2010,23.0
-Kentucky,Taylor County,2009,23.0
+Kentucky,Taylor County,2011,23
+Kentucky,Taylor County,2010,23
+Kentucky,Taylor County,2009,23
 Kentucky,Todd County,2018,14.72
 Kentucky,Todd County,2017,19.43
 Kentucky,Todd County,2016,17.72
@@ -30274,7 +30274,7 @@ Louisiana,Caddo Parish,2017,23.52
 Louisiana,Caddo Parish,2016,22.43
 Louisiana,Caddo Parish,2015,21.78
 Louisiana,Caddo Parish,2014,21.53
-Louisiana,Caddo Parish,2013,18.0
+Louisiana,Caddo Parish,2013,18
 Louisiana,Caddo Parish,2012,18.33
 Louisiana,Caddo Parish,2011,19.27
 Louisiana,Caddo Parish,2010,19.27
@@ -30685,7 +30685,7 @@ Louisiana,St. Martin Parish,2016,17.29
 Louisiana,St. Martin Parish,2015,17.81
 Louisiana,St. Martin Parish,2014,17.88
 Louisiana,St. Martin Parish,2013,17.88
-Louisiana,St. Martin Parish,2012,18.0
+Louisiana,St. Martin Parish,2012,18
 Louisiana,St. Martin Parish,2011,18.09
 Louisiana,St. Martin Parish,2010,18.09
 Louisiana,St. Martin Parish,2009,18.09
@@ -30844,7 +30844,7 @@ Maine,Aroostook County,2017,17.47
 Maine,Aroostook County,2016,17.73
 Maine,Aroostook County,2015,18.54
 Maine,Aroostook County,2014,18.53
-Maine,Aroostook County,2013,16.0
+Maine,Aroostook County,2013,16
 Maine,Aroostook County,2012,15.73
 Maine,Aroostook County,2011,14.92
 Maine,Aroostook County,2010,14.44
@@ -30857,11 +30857,11 @@ Maine,Cumberland County,2014,11.62
 Maine,Cumberland County,2013,11.07
 Maine,Cumberland County,2012,10.61
 Maine,Cumberland County,2011,11.06
-Maine,Cumberland County,2010,6.0
+Maine,Cumberland County,2010,6
 Maine,Cumberland County,2009,15.63
 Maine,Franklin County,2018,6.3
 Maine,Franklin County,2017,12.33
-Maine,Franklin County,2016,14.0
+Maine,Franklin County,2016,14
 Maine,Franklin County,2015,14.7
 Maine,Franklin County,2014,14.77
 Maine,Franklin County,2013,14.77
@@ -30871,7 +30871,7 @@ Maine,Franklin County,2010,17.11
 Maine,Franklin County,2009,17.11
 Maine,Hancock County,2018,11.2
 Maine,Hancock County,2017,11.38
-Maine,Hancock County,2016,12.0
+Maine,Hancock County,2016,12
 Maine,Hancock County,2015,13.42
 Maine,Hancock County,2014,13.53
 Maine,Hancock County,2013,13.19
@@ -30972,7 +30972,7 @@ Maine,Waldo County,2009,15.49
 Maine,Washington County,2018,18.46
 Maine,Washington County,2017,18.28
 Maine,Washington County,2016,18.05
-Maine,Washington County,2015,19.0
+Maine,Washington County,2015,19
 Maine,Washington County,2014,19.07
 Maine,Washington County,2013,19.07
 Maine,Washington County,2012,19.87
@@ -30992,14 +30992,14 @@ Maine,York County,2009,9.46
 Maryland,Allegany County,2018,16.32
 Maryland,Allegany County,2017,16.77
 Maryland,Allegany County,2016,17.41
-Maryland,Allegany County,2015,18.0
+Maryland,Allegany County,2015,18
 Maryland,Allegany County,2014,18.03
 Maryland,Allegany County,2013,17.51
 Maryland,Allegany County,2012,17.43
 Maryland,Allegany County,2011,12.38
 Maryland,Allegany County,2010,19.49
 Maryland,Allegany County,2009,15.73
-Maryland,Anne Arundel County,2018,6.0
+Maryland,Anne Arundel County,2018,6
 Maryland,Anne Arundel County,2017,6.02
 Maryland,Anne Arundel County,2016,6.09
 Maryland,Anne Arundel County,2015,5.84
@@ -31294,7 +31294,7 @@ Massachusetts,Hampden County,2017,17.12
 Massachusetts,Hampden County,2016,17.64
 Massachusetts,Hampden County,2015,17.57
 Massachusetts,Hampden County,2014,17.47
-Massachusetts,Hampden County,2013,17.0
+Massachusetts,Hampden County,2013,17
 Massachusetts,Hampden County,2012,16.99
 Massachusetts,Hampden County,2011,17.12
 Massachusetts,Hampden County,2010,17.12
@@ -31702,7 +31702,7 @@ Michigan,Ingham County,2009,17.51
 Michigan,Ionia County,2018,3.96
 Michigan,Ionia County,2017,17.99
 Michigan,Ionia County,2016,13.98
-Michigan,Ionia County,2015,15.0
+Michigan,Ionia County,2015,15
 Michigan,Ionia County,2014,15.14
 Michigan,Ionia County,2013,15.14
 Michigan,Ionia County,2012,16.26
@@ -31815,7 +31815,7 @@ Michigan,Leelanau County,2016,8.61
 Michigan,Leelanau County,2015,10.4
 Michigan,Leelanau County,2014,10.4
 Michigan,Leelanau County,2013,10.52
-Michigan,Leelanau County,2012,11.0
+Michigan,Leelanau County,2012,11
 Michigan,Leelanau County,2011,11.1
 Michigan,Leelanau County,2010,11.1
 Michigan,Leelanau County,2009,11.1

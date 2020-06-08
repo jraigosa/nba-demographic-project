@@ -22,6 +22,7 @@ def scrape_info():
 
     for state in state_options:
         state.click()
+        time.sleep(0.5)
 
         county_select = driver.find_elements_by_tag_name('select')[1]
         county_options = county_select.find_elements_by_tag_name('option')
@@ -29,13 +30,15 @@ def scrape_info():
         
         for county in county_options:
             county.click()
+            time.sleep(0.5)
 
             year_select = driver.find_elements_by_tag_name('select')[2]
             year_options = year_select.find_elements_by_tag_name('option')
 
             for year in year_options:
                 year.click()
-
+                time.sleep(0.5)
+                
                 overview_section = driver.find_element_by_class_name('section-overview')
                 population_div = overview_section.find_element_by_class_name('population')
                 population_stat = population_div.find_element_by_class_name('stat')\
