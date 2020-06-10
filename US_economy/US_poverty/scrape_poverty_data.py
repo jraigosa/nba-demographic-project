@@ -57,10 +57,8 @@ def scrape_info():
                     poverty_rate_div = overview_section.find_element_by_class_name('poverty-rate')
                     poverty_rate_stat = poverty_rate_div.find_element_by_class_name('stat')\
                                                         .find_element_by_tag_name('span')
-                    print(poverty_rate_stat.text.split('%')[0])
                     poverty_rate = round(float(poverty_rate_stat.text.split('%')[0]),1)
                 except Exception as e:
-                    print(e)
                     population_div = overview_section.find_element_by_class_name('population')
                     population_stat = population_div.find_element_by_class_name('stat')\
                                                     .find_element_by_tag_name('span')
@@ -72,6 +70,8 @@ def scrape_info():
                     in_poverty = float(in_poverty_stat.text.replace(',',''))
 
                     poverty_rate = round((in_poverty/population)*100, 1)
+                    print(f"{state.text}, {county.text}, {year.text}, {poverty_rate} was missing poverty rate stat")
+                    print(e)
 
                 states.append(state.text)
                 counties.append(county.text)
@@ -79,7 +79,6 @@ def scrape_info():
                 poverty_rates.append(poverty_rate)
 
                 checkpoint_count += 1
-                print(checkpoint_count)
                 if checkpoint_count % 500 == 0:
                     save_to_csv(states, counties, years, poverty_rates)
                     print("saved")
