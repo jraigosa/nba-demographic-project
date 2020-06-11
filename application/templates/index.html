@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Stock!</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container text-center">
+      <h1 class="jumbotron">Players</h1>
+      <div>
+        <div class="container">
+          <div class="row margin-top-50">
+            <div class="col-md-2">
+              <aside class="filters">
+                <div class="panel panel-default">
+                  <div class="panel-heading">Filter Search</div>
+                  <div class="panel-body">
+                    <form id="form">
+                      <div class="form-group">
+                        <ul class="list-group" id="filters">
+                          <li class="filter list-group-item">
+                            <label for="date">Start Year</label>
+                            <input class="form-control" id="startyear" type="text" placeholder="1966">
+                          </li>
+                          <li class="filter list-group-item">
+                            <label for="date">End Year</label>
+                            <input class="form-control" id="endyear" type="text" placeholder="2020">
+                          </li>
+                        </ul>
+                      </div>
+                      <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
+                    </form>
+                  </div>
+                </div>
+              </aside>
+            </div>
+        <!-- write a for loop that lists out your data and accesses the values using dot notation. -->
+{#          {% for player in players %}#}
+{#          <div class="col-lg-4">#}
+{#            <div class="card" style="width: 20rem;">#}
+{#              <div class="card-body">#}
+{#                <h4 class="card-title">{{ player.name }}</h4>#}
+{#                <h6 class="card-subtitle mb-2 text-muted">Birth date: {{ player.birth_date }}</h6>#}
+{#                <p class="card-text">Birth city: {{ player.birth_city}}</p>#}
+{#              </div>#}
+{#            </div>#}
+{#          </div>#}
+{#            {% endfor %}#}
+
+      </div>
+    </div>
+{#    <script type="text/javascript">#}
+{#        var players = [];#}
+{#        {% for player in players %}#}
+{#            players.push( {{ player.name }} )#}
+{#        {% endfor %}#}
+{#    </script>#}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="static/js/app.js"></script>
+
+
+</body>
+
+</html>
