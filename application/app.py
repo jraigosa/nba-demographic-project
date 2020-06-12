@@ -18,9 +18,12 @@ def index():
     players = list(population.find())
     #print(players)
 
-    # render an index.html template and pass it the data yu retrieved from the database
+    # render an index.html template and pass it the data you retrieved from the database
     return render_template("index.html", players=players)
 
+@app.route("/tableau")
+def tableu():
+    return render_template("tableau.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
