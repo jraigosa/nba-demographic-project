@@ -1,29 +1,47 @@
-from flask import Flask, render_template
-import pymongo
+#Import SQLAlchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func
+from sqlalchemy import and_, or_
 
+#Import Flask
+from flask import Flask, jsonify
+
+#Import NumPy
+import numpy as np
+
+#Import Mean
+from scipy import mean
+
+#Database Setup
+engine = create_engine("sqlite:///../Resources/sqlite/nbaData.sqlite")
+
+#Reflect existing database
+Base = automap_base()
+
+#Reflect tables
+Base.prepare(engine, reflect=True)
+
+#Save references to the tables
+Player = Base.classes.Player
+Race = Base.classes.Race
+Counties = Base.classes.Counties
+Poverty = Base.classes.Poverty
+
+#Flask Setup
 app = Flask(__name__)
-
-# setup mongo connection
-conn = "mongodb://localhost:27017"
-client = pymongo.MongoClient(conn)
-
-# connect to mongo db and collection
-db = client.nba_demo
-population = db.nba_players
-
 
 @app.route("/")
 def index():
-    # write a statement that finds all the items in the db and sets it to a variable
-    players = list(population.find())
-    #print(players)
 
-    # render an index.html template and pass it the data you retrieved from the database
-    return render_template("index.html", players=players)
 
-@app.route("/tableau")
-def tableu():
-    return render_template("tableau.html")
+   
+@app.route("/race")
+def race():
+
+@app.route("/economic")
+def economic():
+    
 
 if __name__ == "__main__":
     app.run(debug=True)
