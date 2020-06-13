@@ -44,7 +44,7 @@ def index():
    
 @app.route("/race")
 def race():
-    return "Hello"
+    return render_template("tableau_copy.html")
     
 @app.route("/poverty")
 def economic():
