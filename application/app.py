@@ -8,11 +8,6 @@ import pandas as pd
 #Import Flask
 from flask import Flask, jsonify, render_template
 
-#Import NumPy
-import numpy as np
-
-#Import Mean
-from scipy import mean
 
 #Database Setup
 engine = create_engine("sqlite:///../Resources/sqlite/nbaData.sqlite")
