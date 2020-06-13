@@ -45,9 +45,10 @@ def index():
 @app.route("/race")
 def race():
     return "Hello"
-@app.route("/economic")
+    
+@app.route("/poverty")
 def economic():
-    return "Hello"
+    return render_template("poverty.html")
 
 @app.route('/api/all_players')
 def all_player():
